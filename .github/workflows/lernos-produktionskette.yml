@@ -73,6 +73,19 @@ jobs:
             --output=./de/build/${{ github.event.repository.name }}-guide.epub
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
+      # Create Markdown Version (one file)
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            -V lang=de-de
+            --output=./de/build/${{ github.event.repository.name }}-guide.md
+            ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+
       # Create PDF Version (pdf)
       - uses: docker://pandoc/extra
         with:
@@ -86,6 +99,9 @@ jobs:
             --template /.pandoc/templates/eisvogel.latex
             --output=./de/build/${{ github.event.repository.name }}-guide.pdf
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
+
+      # Create Markdown Version (one file)
+pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter -N --toc -V lang=de-de -o $filename.md $chapters
 
       # Geänderte Datein zurück ins Repository committen
       - uses: stefanzweifel/git-auto-commit-action@v4

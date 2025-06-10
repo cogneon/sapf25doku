@@ -3,8 +3,8 @@ title: "SAP Learning & Adoption Forum 2025"
 subtitle: "KI-unterstützte Dokumentation"
 titlepage: true
 titlepage-color: "0000ff"
-titlepage-text-color: "ed1b24"
-titlepage-rule-color: "2e3192"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
 links-as-notes: true
 lof: false
 toc: true
