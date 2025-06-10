@@ -1,0 +1,15 @@
+---
+title: "loscon25 Un-Konferenzband"
+subtitle: "KI-unterstützte Dokumentation der lernOS Convention 2025"
+titlepage: true
+titlepage-color: "000000"
+titlepage-text-color: "ed1b24"
+titlepage-rule-color: "2e3192"
+links-as-notes: true
+lof: false
+toc: true
+toc-own-page: true
+toc-depth: 3
+titlepage-logo: ./src/images/loscon25-key-visual.png
+logo-width: 100mm
+---
