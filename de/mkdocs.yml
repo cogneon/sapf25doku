@@ -25,6 +25,12 @@ nav:
       - Promptathon: 3-1.md
       - Discovery Workshop AI UseCases im Learning: 3-2.md
       -  Good Practices & Lessons Learned SAP S/4HANA Transformationen: 3-3.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/sapf25doku/blob/main/de/build/sapf25doku-guide.pdf
+      - Word-Version: https://github.com/cogneon/sapf25doku/blob/main/de/build/sapf25doku-guide.docx
+      - HTML-Version: https://github.com/cogneon/sapf25doku/blob/main/de/build/sapf25doku-guide.html
+      - E-Book (epub): https://github.com/cogneon/sapf25doku/blob/main/de/build/sapf25doku-guide.epub
+      - Markdown: https://github.com/cogneon/sapf25doku/blob/main/de/build/sapf25doku-guide.md
 
 
 theme:
@@ -44,7 +50,7 @@ theme:
 #  - stylesheets/extra.css
 
 repo_name: 'cogneon/sapf25doku'
-repo_url: 'https://github.com/sapf25doku/'
+repo_url: 'https://github.com/cogneon/sapf25doku/'
 
 extra:
     social:
