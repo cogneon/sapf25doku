@@ -3,7 +3,7 @@
 Das [SAP Learning and Adoption Forum 2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-save-the-date/ba-p/14048737) fand am 25. Juni 2025 in Walldorf statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Lightning Talks, Knowledge Cafes und Workshops.
 
 !!! note "Hinweis"
-    Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen 😉
+    Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen.
 
 *Offen: wer steht im Impressum? Unter welcher Lizenz stehen die Inhalte?*
 
