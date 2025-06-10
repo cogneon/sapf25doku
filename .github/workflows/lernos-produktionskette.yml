@@ -100,9 +100,6 @@ jobs:
             --output=./de/build/${{ github.event.repository.name }}-guide.pdf
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
-      # Create Markdown Version (one file)
-pandoc metadata.yaml -s --resource-path="./src" -F mermaid-filter -N --toc -V lang=de-de -o $filename.md $chapters
-
       # Geänderte Datein zurück ins Repository committen
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
