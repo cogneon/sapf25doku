@@ -1,4 +1,5 @@
 ---
+date: Version 0.1 (25.06.2026)
 links-as-notes: true
 lof: false
 subtitle: KI-unterstützte Dokumentation
