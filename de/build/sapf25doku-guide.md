@@ -1,5 +1,5 @@
 ---
-date: Version 0.1 (25.06.2026)
+date: Version 0.1 (25.06.2025)
 links-as-notes: true
 lof: false
 subtitle: KI-unterstützte Dokumentation
@@ -18,10 +18,11 @@ toc-own-page: true
   Zusammenfassung](#workflow-der-ki-generierten-zusammenfassung){#toc-workflow-der-ki-generierten-zusammenfassung}
 - [[3]{.toc-section-number}
   Impulsvorträge](#impulsvorträge){#toc-impulsvorträge}
-  - [[3.1]{.toc-section-number} Timo Deiner: NAppet-ai-te for
-    disruption](#timo-deiner-nappet-ai-te-for-disruption){#toc-timo-deiner-nappet-ai-te-for-disruption}
-  - [[3.2]{.toc-section-number} Bernhard Rupp - 12 Freunde müsst ihr
-    sein](#bernhard-rupp---12-freunde-müsst-ihr-sein){#toc-bernhard-rupp---12-freunde-müsst-ihr-sein}
+  - [[3.1]{.toc-section-number} Timo Deiner: Appet-ai-te for
+    disruption](#timo-deiner-appet-ai-te-for-disruption){#toc-timo-deiner-appet-ai-te-for-disruption}
+  - [[3.2]{.toc-section-number} Jochen Robes - Trends in Corporate
+    Learning - mehr als
+    KI!](#jochen-robes---trends-in-corporate-learning---mehr-als-ki){#toc-jochen-robes---trends-in-corporate-learning---mehr-als-ki}
   - [[3.3]{.toc-section-number} Eva Stock: Superkräfte bei
     Mitarbeitenden - Was ist wichtig aus HR und People
     Sicht?](#eva-stock-superkräfte-bei-mitarbeitenden---was-ist-wichtig-aus-hr-und-people-sicht){#toc-eva-stock-superkräfte-bei-mitarbeitenden---was-ist-wichtig-aus-hr-und-people-sicht}
@@ -33,17 +34,18 @@ toc-own-page: true
   - [[4.2]{.toc-section-number} Simon Dückert - State of GenAI - was in
     meiner Wissensarbeit wirklich, wirklich
     funktioniert](#simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert){#toc-simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert}
-  - [[4.3]{.toc-section-number} Bernhard Rupp - 12 Freunde müsst ihr
-    sein](#bernhard-rupp---12-freunde-müsst-ihr-sein-1){#toc-bernhard-rupp---12-freunde-müsst-ihr-sein-1}
+  - [[4.3]{.toc-section-number} Bernhard Rupp und Andreas Kübli - 12
+    Freunde müsst ihr
+    sein](#bernhard-rupp-und-andreas-kübli---12-freunde-müsst-ihr-sein){#toc-bernhard-rupp-und-andreas-kübli---12-freunde-müsst-ihr-sein}
   - [[4.4]{.toc-section-number} Florence Streif - Weichenstellung fürs
     digitale Zeitalter - Zwischen Bahnhof und
     Besprechungsraum](#florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum){#toc-florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum}
   - [[4.5]{.toc-section-number} Moritz Huber - KI im Lern-Lifecycle -
     PoC für KI-gestütztes
     Anwenderlernen](#moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen){#toc-moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen}
-  - [[4.6]{.toc-section-number} Mike Fritz - SAP Enable Now trifft auf
-    WalkMe und die SAP Integrated
-    Toolchain](#mike-fritz---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain){#toc-mike-fritz---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain}
+  - [[4.6]{.toc-section-number} Mike Fritz und Christoph Kernke - SAP
+    Enable Now trifft auf WalkMe und die SAP Integrated
+    Toolchain](#mike-fritz-und-christoph-kernke---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain){#toc-mike-fritz-und-christoph-kernke---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain}
   - [[4.7]{.toc-section-number} Patrick Fueldner - Von der Einführung
     zur Skalierung - Nestlés Digital Adoption-Strategie mit
     WalkMe](#patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme){#toc-patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme}
@@ -127,11 +129,11 @@ Bereitstellnug der Inhalte weitgehend automatisiert:
 
 # Impulsvorträge
 
-## Timo Deiner: NAppet-ai-te for disruption
+## Timo Deiner: Appet-ai-te for disruption
 
 ...
 
-## Bernhard Rupp - 12 Freunde müsst ihr sein
+## Jochen Robes - Trends in Corporate Learning - mehr als KI!
 
 ...
 
@@ -149,7 +151,7 @@ Bereitstellnug der Inhalte weitgehend automatisiert:
 
 ...
 
-## Bernhard Rupp - 12 Freunde müsst ihr sein
+## Bernhard Rupp und Andreas Kübli - 12 Freunde müsst ihr sein
 
 ...
 
@@ -161,7 +163,7 @@ Bereitstellnug der Inhalte weitgehend automatisiert:
 
 ...
 
-## Mike Fritz - SAP Enable Now trifft auf WalkMe und die SAP Integrated Toolchain
+## Mike Fritz und Christoph Kernke - SAP Enable Now trifft auf WalkMe und die SAP Integrated Toolchain
 
 ...
 
