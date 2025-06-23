@@ -14,57 +14,58 @@ toc-own-page: true
 ---
 
 - [[1]{.toc-section-number} Willkommen](#willkommen){#toc-willkommen}
-- [[2]{.toc-section-number} Workflow der KI-generierten
+- [[2]{.toc-section-number} Programm](#programm){#toc-programm}
+- [[3]{.toc-section-number} Workflow der KI-generierten
   Zusammenfassung](#workflow-der-ki-generierten-zusammenfassung){#toc-workflow-der-ki-generierten-zusammenfassung}
-- [[3]{.toc-section-number}
+- [[4]{.toc-section-number}
   Impulsvorträge](#impulsvorträge){#toc-impulsvorträge}
-  - [[3.1]{.toc-section-number} Timo Deiner: Appet-ai-te for
+  - [[4.1]{.toc-section-number} Timo Deiner: Appet-ai-te for
     disruption](#timo-deiner-appet-ai-te-for-disruption){#toc-timo-deiner-appet-ai-te-for-disruption}
-  - [[3.2]{.toc-section-number} Jochen Robes - Trends in Corporate
+  - [[4.2]{.toc-section-number} Jochen Robes - Trends in Corporate
     Learning - mehr als
     KI!](#jochen-robes---trends-in-corporate-learning---mehr-als-ki){#toc-jochen-robes---trends-in-corporate-learning---mehr-als-ki}
-  - [[3.3]{.toc-section-number} Eva Stock: Superkräfte bei
+  - [[4.3]{.toc-section-number} Eva Stock: Superkräfte bei
     Mitarbeitenden - Was ist wichtig aus HR und People
     Sicht?](#eva-stock-superkräfte-bei-mitarbeitenden---was-ist-wichtig-aus-hr-und-people-sicht){#toc-eva-stock-superkräfte-bei-mitarbeitenden---was-ist-wichtig-aus-hr-und-people-sicht}
-- [[4]{.toc-section-number} Lightning
+- [[5]{.toc-section-number} Lightning
   Talks](#lightning-talks){#toc-lightning-talks}
-  - [[4.1]{.toc-section-number} Frédéric Heinemann - Collaborative
+  - [[5.1]{.toc-section-number} Frédéric Heinemann - Collaborative
     Learning im SAP-Ecosystem - Key-User als Mentoren der
     Zukunft](#frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft){#toc-frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft}
-  - [[4.2]{.toc-section-number} Simon Dückert - State of GenAI - was in
+  - [[5.2]{.toc-section-number} Simon Dückert - State of GenAI - was in
     meiner Wissensarbeit wirklich, wirklich
     funktioniert](#simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert){#toc-simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert}
-  - [[4.3]{.toc-section-number} Bernhard Rupp und Andreas Kübli - 12
+  - [[5.3]{.toc-section-number} Bernhard Rupp und Andreas Kübli - 12
     Freunde müsst ihr
     sein](#bernhard-rupp-und-andreas-kübli---12-freunde-müsst-ihr-sein){#toc-bernhard-rupp-und-andreas-kübli---12-freunde-müsst-ihr-sein}
-  - [[4.4]{.toc-section-number} Florence Streif - Weichenstellung fürs
+  - [[5.4]{.toc-section-number} Florence Streif - Weichenstellung fürs
     digitale Zeitalter - Zwischen Bahnhof und
     Besprechungsraum](#florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum){#toc-florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum}
-  - [[4.5]{.toc-section-number} Moritz Huber - KI im Lern-Lifecycle -
+  - [[5.5]{.toc-section-number} Moritz Huber - KI im Lern-Lifecycle -
     PoC für KI-gestütztes
     Anwenderlernen](#moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen){#toc-moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen}
-  - [[4.6]{.toc-section-number} Mike Fritz und Christoph Kernke - SAP
+  - [[5.6]{.toc-section-number} Mike Fritz und Christoph Kernke - SAP
     Enable Now trifft auf WalkMe und die SAP Integrated
     Toolchain](#mike-fritz-und-christoph-kernke---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain){#toc-mike-fritz-und-christoph-kernke---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain}
-  - [[4.7]{.toc-section-number} Patrick Fueldner - Von der Einführung
+  - [[5.7]{.toc-section-number} Patrick Fueldner - Von der Einführung
     zur Skalierung - Nestlés Digital Adoption-Strategie mit
     WalkMe](#patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme){#toc-patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme}
-  - [[4.8]{.toc-section-number} Katja Sommerer - Big Bang - 40 Länder,
+  - [[5.8]{.toc-section-number} Katja Sommerer - Big Bang - 40 Länder,
     800 neue Mitarbeitende - Herausforderungen des Trainings in einem
     M+A-Projekt](#katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt){#toc-katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt}
-  - [[4.9]{.toc-section-number} Andrea Flöth - HR neu gedacht - BARMERs
+  - [[5.9]{.toc-section-number} Andrea Flöth - HR neu gedacht - BARMERs
     digitale Evolution mit Hilfe von SAP Preferred
     Success](#andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success){#toc-andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success}
-  - [[4.10]{.toc-section-number} Mareike Muth - Übersetzer der Moderne -
+  - [[5.10]{.toc-section-number} Mareike Muth - Übersetzer der Moderne -
     Das Learning Team als Katalysator zwischen Fachbereich und
     Enduser](#mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser){#toc-mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser}
-- [[5]{.toc-section-number} Sessions &
+- [[6]{.toc-section-number} Sessions &
   Workshops](#sessions-workshops){#toc-sessions-workshops}
-  - [[5.1]{.toc-section-number}
+  - [[6.1]{.toc-section-number}
     Promptathon](#promptathon){#toc-promptathon}
-  - [[5.2]{.toc-section-number} Discovery Workshop AI UseCases im
+  - [[6.2]{.toc-section-number} Discovery Workshop AI UseCases im
     Learning](#discovery-workshop-ai-usecases-im-learning){#toc-discovery-workshop-ai-usecases-im-learning}
-  - [[5.3]{.toc-section-number} Good Practices & Lessons Learned SAP
+  - [[6.3]{.toc-section-number} Good Practices & Lessons Learned SAP
     S/4HANA
     Transformationen](#good-practices-lessons-learned-sap-s4hana-transformationen){#toc-good-practices-lessons-learned-sap-s4hana-transformationen}
 
@@ -83,6 +84,93 @@ nachberarbeitet. Die KI kann Fehler machen.
 Inhalte?*
 
 ![](https://community.sap.com/t5/image/serverpage/image-id/239155iA5FD44DFCBCAB58F/image-size/large?v=v2&px=999)
+
+# Programm
+
+  -----------------------------------------------------------------------------------------
+  ID                Programmpunkt               Referent:innen    Affiliation
+  ----------------- --------------------------- ----------------- -------------------------
+  1                 **Lightning Talks**                           
+
+  1-1               [Appet-ai-te for            Timo Deiner       Head of Innovation &
+                    disruption](1-1.md)                           Technology MEE, SAP
+
+  1-2               [Trends in Corporate        Jochen Robes      Hochschullehrer und
+                    Learning - mehr als                           Gründungsmitglied
+                    KI!](1-2.md)                                  Corporate Learning
+                                                                  Community
+
+  1-3               [Superkräfte bei            Eva Stock         Chief People & Marketing
+                    Mitarbeitenden - Was ist                      Officer, comspace
+                    wichtig aus HR und People                     
+                    Sicht?](1-3.md)                               
+
+  2                 **Knowledge Cafes**                           
+
+  2-1               [Collaborative Learning im  Frédéric          Head of SAP
+                    SAP-Ecosystem: Key-User als Heinemann         Transformation Portfolio,
+                    Mentoren der                                  Kyndryl
+                    Zukunft](2-1.md)                              
+
+  2-2               [12 Freunde müsst ihr       Bernhard Rupp,    Kreislead HR-IT &
+                    sein](2-2.md)               Andreas Kübli     Support,
+                                                                  Transformationsmanager,
+                                                                  BLS AG
+
+  2-3               [Weichenstellung fürs       Florence Streif   Senior Change Consultant
+                    digitale Zeitalter:                           & systemisches Coaching,
+                    Zwischen Bahnhof und                          ÖBB
+                    Besprechungsraum](2-3.md)                     
+
+  2-4               [KI im Lern-Lifecycle: PoC  Moritz Huber      Head of SAP Learning
+                    für KI-gestütztes                             Services MEE, SAP
+                    Anwenderlernen](2-4.md)                       
+
+  2-5               [SAP Enable Now trifft auf  Mike Fritz,       Product Expert Enable
+                    WalkMe und die SAP          Christoph Kernke  Now, Head of Integrated
+                    Integrated                                    Toolchain Services, SAP
+                    Toolchain](2-5.md)                            
+
+  2-6               [Von der Einführung zur     Patrick Fueldner  Senior IT Product Manager
+                    Skalierung: Nestlés Digital                   Digital Enablement,
+                    Adoption-Strategie mit                        Nestlé
+                    WalkMe](2-6.md)                               
+
+  2-7               [Big Bang - 40 Länder, 800  Katja Sommerer    Leading IT Project
+                    neue Mitarbeitende -                          Manager, Endress+Hauser
+                    Herausforderungen des                         Gruppe
+                    Trainings in einem                            
+                    M+A-Projekt](2-7.md)                          
+
+  2-8               [HR neu gedacht: BARMERs    Andrea Flöth      Manager HR
+                    digitale Evolution mit                        Transformation, BARMER
+                    Hilfe von SAP Preferred                       
+                    Success](2-8.md)                              
+
+  2-9               [Übersetzer der Moderne:    Mareike Muth      Gruppenleitung
+                    Das Learning Team als                         Wissensmanagement, MEWA
+                    Katalysator zwischen                          
+                    Fachbereich und                               
+                    Enduser](2-9.md)                              
+
+  2-10              [State of GenAI - was in    Simon Dückert     Spezial-Experte
+                    meiner Wissensarbeit                          Wissensmanagement &
+                    wirklich, wirklich                            Lernende Organisationen,
+                    funktioniert](2-10.md)                        Scholarch Cogneon
+                                                                  Akademie
+
+  3                 **Hands-on Workshops**                        
+
+  3-1               [Promptathon](3-1.md)                         
+
+  3-2               [Discovery Workshop AI                        
+                    UseCases im                                   
+                    Learning](3-2.md)                             
+
+  3-3               [Good Practices & Lessons                     
+                    Learned SAP S/4HANA                           
+                    Transformationen](3-3.md)                     
+  -----------------------------------------------------------------------------------------
 
 # Workflow der KI-generierten Zusammenfassung
 
