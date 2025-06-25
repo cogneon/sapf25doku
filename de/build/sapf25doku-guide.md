@@ -21,7 +21,10 @@ Das [SAP Learning and Adoption Forum
 2025](https://go4.events.sap.com/eur-learning-adoption-forum/de_de/home.html)
 fand am 25. Juni 2025 in Walldorf statt. Die Inhalte dieser
 Dokumentation stammen aus den Aufzeichnungen der Lightning Talks,
-Knowledge Cafes und Workshops.
+Knowledge Cafes und Workshops. Eine Zusammenfassung der Veranstalung
+könnt ihr euch [auch als Podcast
+anhören](https://cloud.cogneon.de/s/f7AEtBdm9mdQeLN) (mit
+[NotebookLM](https://notebooklm.google) generiert).
 
 !!! note "Hinweis" Mit der Dokumentation könnt ihr sogar mit [diesem
 Chatbot](https://chatgpt.com/g/g-68591dbd8fd081918d7be3eaef14596e-sap-learning-adoption-forum-2025)
