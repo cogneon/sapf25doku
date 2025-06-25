@@ -141,9 +141,8 @@ Bereitstellnug der Inhalte weitgehend automatisiert:
     **transkribiert** (*Format: txt*).
 3.  Die Transkripte werden mit der App [Chatbox](https://chatboxai.app/)
     mit einem dort angelegten Copilot (nicht Microsoft Copilot) nach
-    einheitlichem Schema **zusammengefasst** (Format: md). *(noch
-    festzulegen, aktuell: Zusammenfassung, Gliederung, Kernaussagen,
-    Offene Fragestellungen, Handlungsempfehlungen, Thesen, Abschluss)*.
+    einheitlichem Schema **zusammengefasst** (Format: md). *(Modell:
+    Claude 4 Sonnet)*.
 4.  Die Zusammenfassungen werden in der **Repo-Struktur** von
     [lernOS](https://lernos.org) in einem Github-Repository abgelegt.
 5.  Mit der **lernOS Produktionskette** wird aus den Markdown-Dateien
@@ -781,7 +780,115 @@ Transformation zu entwickeln.
 
 ## Simon Dückert - State of GenAI - was in meiner Wissensarbeit wirklich, wirklich funktioniert
 
-...
+Simon präsentierte in seinem Vortrag eine praxisnahe Bestandsaufnahme
+der aktuellen Nutzung von Generativer KI in Unternehmen. Der Fokus lag
+dabei bewusst auf *"was wirklich, wirklich funktioniert"* jenseits der
+Marketingversprechen der Anbieter. Als Wissensmanagement-Experte mit
+langjähriger Erfahrung bei größeren Unternehmen wie Siemens und Audi
+beleuchtete er konkrete Anwendungsfälle, technische Entwicklungen und
+praktische Herausforderungen beim Einsatz von KI-Tools im Arbeitsalltag.
+
+## Aufbau und Gliederung des Vortrags
+
+Der Vortrag gliederte sich in folgende Hauptbereiche:
+
+1.  **Einordnung und Kontext**: Historische Entwicklung von
+    Technologiewellen im Wissensmanagement
+2.  **Aktuelle Nutzungstrends**: Auswertung der HBR-Studie zu realen Use
+    Cases
+3.  **Technische Entwicklungen**: Überblick über Modelle, Parameter und
+    neue Funktionen
+4.  **Agentic AI und neue Paradigmen**: Von Chatbots zu intelligenten
+    Agenten
+5.  **Praktische Anwendungsbeispiele**: Konkrete Workflows und Tools
+6.  **Vibe-Coding**: Programmierung durch natürliche Sprache
+
+## Kernaussagen
+
+**Zur kognitiven Kränkung der Menschheit:** *"Im Moment scheint immer
+mehr durch, dass uns so eine kognitive Kränkung erwischt. Also dass wir
+sagen, Sachen, wo wir bisher gesagt haben, das muss aber auf jeden Fall
+Mensch machen, diesen Text muss ein Mensch schreiben, auf einmal können
+das Maschinen."*
+
+**Zur Diskrepanz zwischen Erwartung und Realität:** *"Was so auf Folien
+gezeigt wird und was die Hersteller uns erzählen, was man damit alles
+tun könnte. Und wenn man dann mal die Leute fragt, was sie denn wirklich
+damit tun, da gibt es doch einen ziemlich großen Gap dazwischen."*
+
+**Zu den vier Prinzipien im Umgang mit KI:** *"Sprich mit der KI, als
+wäre es ein Mensch. Und dann steht in Klammern, aber denk dran, es ist
+keiner."*
+
+**Zur Modellauswahl:** *"Wenn Leute die Wahl haben, mache ich irgendwas
+im Microsoft Copilot oder nutze ich ChatGPT, hat ChatGPT immer das
+bessere Ergebnis und schnellere Ergebnis."*
+
+**Zu Vibe-Coding:** *"Die einzige Programmiersprache, die man in Zukunft
+noch kennen muss, ist Deutsch. Also ich sage der KI einfach, was ich
+haben will und die KI entwickelt die Software dazu."*
+
+## Offene Fragestellungen
+
+Während des Vortrags wurden verschiedene ungeklärte Aspekte
+angesprochen:
+
+- Wie können Unternehmen den optimalen Weg zwischen verschiedenen
+  KI-Modellen und -Anbietern finden?
+- Welche Auswirkungen haben die hohen Betriebskosten (geschätzt 1
+  Milliarde Dollar monatlich bei OpenAI) auf die zukünftige
+  Verfügbarkeit und Preisgestaltung?
+- Wie kann die Qualität von dokumentenbasierten KI-Anwendungen
+  systematisch verbessert werden?
+- Welche Rolle wird das Model Context Protocol (MCP) als "USB für AI" in
+  der Praxis spielen?
+- Wie entwickelt sich die Balance zwischen lokalen und Cloud-basierten
+  KI-Lösungen unter Datenschutzaspekten?
+
+## Handlungsempfehlungen
+
+### Für AI Literacy in Organisationen:
+
+- Durchführung von Promptathons, Barcamps und Communities für
+  peer-to-peer Lernen
+- Aufbau von internen Meetups und Erfahrungsaustausch nach der
+  Basisqualifikation
+- Fokus auf schnelles voneinander Lernen und gegenseitiges Abschauen von
+  Anwendungsfällen
+
+### Für die Dokumentenverarbeitung:
+
+- Vorzuverarbeitung von PDFs und Office-Dokumenten mit Tools wie
+  Dockling, Lama Parse oder Tesseract
+- Konvertierung in maschinenlesbare Formate wie Markdown für bessere
+  KI-Performance
+- Kuratierte Sammlungen anlegen statt ungefilterte Datenbanken
+  anzubinden
+
+### Für die Modellauswahl:
+
+- Bewusste Entscheidung zwischen verschiedenen Sprachmodellen je nach
+  Anwendungsfall
+- Bei komplexen Aufgaben Reasoning-Modelle wie O3 oder O1 verwenden
+- Für literarische Texte Claude gegenüber ChatGPT bevorzugen
+- Web-Search aktivieren für aktuelle Informationen jenseits des
+  Knowledge Cut-Off
+
+### Für praktische Anwendungen:
+
+- Deep Research für Markt- und Wettbewerbsanalysen einsetzen
+- Vibe-Coding für einfache Automatisierungsaufgaben ausprobieren
+- Agentic AI-Ansätze für komplexere Workflows evaluieren
+- Model Context Protocol (MCP) für standardisierte Tool-Integration
+  vorbereiten
+
+### Technische Empfehlungen:
+
+- Parameter wie Web-Search, Deep Research und Canvas-Funktionen bewusst
+  einsetzen
+- Lokale Modelle für datenschutzkritische Anwendungen evaluieren
+- Multimodale Fähigkeiten (Text, Bild, Sprache) systematisch nutzen
+- Memory-Funktionen für projektbezogene Kontinuität implementieren
 
 ## Bernhard Rupp und Andreas Kübli - 12 Freunde müsst ihr sein
 
@@ -1118,19 +1225,427 @@ zu sein.
 
 ## Patrick Fueldner - Von der Einführung zur Skalierung - Nestlés Digital Adoption-Strategie mit WalkMe
 
-...
+Patrick von Nestlé präsentierte umfassende Erfahrungen mit der Digital
+Adoption Platform WalkMe, die seit 2019 erfolgreich im Unternehmen
+eingesetzt wird. Der Vortrag zeigte anhand konkreter Beispiele auf, wie
+WalkMe digitale Reibungsverluste reduziert und die User Experience
+verbessert. Besonders beeindruckend war das Beispiel einer
+Kaffeemaschinen-Verwaltungsplattform, bei der die Datenqualität
+innerhalb von drei Monaten um 80% gesteigert werden konnte. Der Fokus
+lag dabei auf der klaren Abgrenzung zwischen WalkMe als
+Productivity-Tool und traditionellen Lernansätzen.
+
+### Gliederung und Aufbau des Vortrags
+
+**1. Einführung und theoretische Grundlagen** - Der Faktor Mensch in der
+digitalen Transformation - Zusammenhang zwischen Technologie, Daten,
+Prozessen und User Experience - Definition digitaler Reibungsverluste
+
+**2. Praktisches Beispiel: Kaffeemaschinen-Verwaltung** - Live-Demo der
+Vendentelemetry-Plattform - Darstellung der WalkMe-Funktionalitäten -
+Erfolgsmessung und ROI
+
+**3. Evolutionsgeschichte bei Nestlé (2019-2025)** - Schrittweise
+Einführung und Skalierung - Aufbau von Centers of Excellence -
+Entwicklung zu strategischen Initiativen
+
+**4. Hauptanwendungsfälle und Use Cases** - Support und Produktivität -
+User Experience und Feature Adoption - Datenqualität und Compliance
+
+**5. Organisatorische Aspekte** - Teamstruktur und Governance -
+Update-Management - Champions-Programme
+
+### Kernaussagen
+
+**WalkMe ist kein Learning-Tool** *"WalkMe ist nicht Learning. Es geht
+nicht darum, dass die Leute was lernen, indem sie da mit den
+WalkMe-Inhalten interagieren."* Patrick betonte die wichtige
+Unterscheidung zwischen Productivity-Tools und Lernformaten.
+
+**Entscheidungskriterium für WalkMe-Einsatz** *"Wir überlegen, bevor wir
+entscheiden, machen wir WalkMe oder nicht, ist die Frage, soll was
+hängen bleiben beim Anwender? Soll der hinterher wissen, was er macht?
+Oder spielt das keine Rolle? Soll er einfach das Richtige machen im
+richtigen Moment?"*
+
+**Messbare Erfolge** *"Wir haben in dem Quartal 163.000
+Produktivitätsstunden eingespart durch User-Interaktionen mit
+WalkMe-Inhalten, was um die 86 Employees entspricht."*
+
+**Datenqualität als Schlüsselfaktor** Bei der Kaffeemaschinen-Plattform
+konstatierte ein Subject Matter Expert: *"Introduction of WalkMe, we're
+seeing improvements. It's one-stop-shop approach. Not only makes it
+easier to identify problems, but it also helps prevent bad data entry
+from occurring in the first place."*
+
+### Hauptanwendungsfälle von WalkMe
+
+**Support und Produktivität** - Direkte Beantwortung von Anwenderfragen
+in der App - Automatisierung wiederholbarer Arbeitsabläufe - Vermeidung
+von Support-Tickets
+
+**User Experience und Enablement** - Kontextbezogene Inhalte zur
+Schulungsverstärkung - Verbesserung der Anwenderzufriedenheit -
+Onboarding neuer Mitarbeiter
+
+**Feature Adoption** - Sichtbarmachung unbekannter Funktionen -
+Beispiel: Translation Tool mit Datei-Upload-Funktion
+
+**Datenqualität und Compliance** - Reduzierung von Eingabefehlern -
+Durchsetzung von Pflichtfeldern ohne Systemanpassungen -
+Compliance-Hinweise bei externen Tools (Google Translate, AI-Tools)
+
+**Data Collection und Analytics** - Nutzung auf \~400 Apps zur
+Datenerfassung - Erkennung von Shadow IT (30.000 Apps/Monat) - Einfluss
+auf strategische Entscheidungen (Canva-Einführung)
+
+### Offene Fragestellungen
+
+**Lerneffekt vs. Produktivität** - Wie kann verhindert werden, dass
+WalkMe-Inhalte nach dem Onboarding als störend empfunden werden? -
+Welche Segmentierungsstrategien sind für verschiedene Nutzergruppen
+optimal?
+
+**Content-Governance** - Wie kann sichergestellt werden, dass
+WalkMe-Inhalte nicht veralten? - Welche Methoden eignen sich zur
+kontinuierlichen Qualitätssicherung?
+
+**Skalierung und Autonomie** - Wie können dezentrale Teams befähigt
+werden, eigene WalkMe-Inhalte zu erstellen und zu warten? - Welche
+Balance zwischen zentraler Kontrolle und lokaler Flexibilität ist
+optimal?
+
+### Handlungsempfehlungen
+
+**Strategische Einführung** - Beginnen Sie mit einem konkreten Use Case
+und messbarem ROI - Integrieren Sie WalkMe in bestehende Release-Zyklen
+der Anwendungen - Etablieren Sie eine klare Governance-Struktur von
+Beginn an
+
+**Organisatorische Verankerung** - Positionieren Sie WalkMe im
+IT-Bereich mit enger Anbindung an User Experience - Bauen Sie Centers of
+Excellence für kritische Anwendungen auf - Implementieren Sie ein
+Champions-Programm für breitere Adoption
+
+**Content-Management** - Führen Sie halbjährliche Reviews aller
+WalkMe-Inhalte durch - Unterscheiden Sie klar zwischen
+Productivity-Tools und Learning-Formaten - Nutzen Sie Segmentierung für
+zielgruppenspezifische Inhalte
+
+**Erfolgsmessung** - Etablieren Sie ein Value-Framework zur
+ROI-Berechnung - Nutzen Sie WalkMe-Analytics für strategische
+IT-Entscheidungen - Messen Sie sowohl quantitative
+(Produktivitätsstunden) als auch qualitative Erfolge (NPS-Scores)
+
+**Integration und Skalierung** - Kombinieren Sie WalkMe mit
+traditionellen Learning-Formaten - Nutzen Sie die Plattform für
+Compliance und Security-Hinweise - Erwägen Sie Hackathon-Formate für
+innovative Use Cases
 
 ## Katja Sommerer - Big Bang - 40 Länder, 800 neue Mitarbeitende - Herausforderungen des Trainings in einem M+A-Projekt
 
-...
+Katja und Can präsentierten ihre Erfahrungen bei der Integration von 800
+neuen Mitarbeitern aus 40 Ländern im Rahmen eines M&A-Projekts. Das
+Projekt umfasste die strategische Partnerschaft mit der SIG AG zur
+Gründung eines Joint Ventures im Gas Measurement Business. Trotz
+erheblicher rechtlicher Beschränkungen und zeitlicher Herausforderungen
+gelang es dem Team, innerhalb von neun Monaten eine erfolgreiche
+Integration durchzuführen.
+
+### Gliederung und Aufbau des Vortrags
+
+**Projektkontext und Herausforderungen** - Vorstellung der
+Endress+Hauser Gruppe als "People for Process Automation" mit 17.000
+Mitarbeitern weltweit - Entstehung der strategischen Partnerschaft mit
+SIG AG ab Oktober 2023 - Rechtliche Rahmenbedingungen und deren
+Auswirkungen auf die Projektdurchführung
+
+**Projektumfang und Komplexität** - Integration von 800 Mitarbeitern aus
+ursprünglich 20, später 42 Ländern - Parallele Gründung eines Joint
+Ventures mit weiteren 730 Mitarbeitern - Migration von ECC auf S4 HANA
+bei komplexer SAP-Systemlandschaft
+
+**Training-Strategie und Umsetzung** - Entwicklung eines
+Key-User-Konzepts mit 200 Key-Usern - Erstellung von Learning Journeys
+für verschiedene Rollen - Einsatz von SAP Enable Now für Simulationen
+und E-Learning-Content
+
+### Kernaussagen des Vortrags
+
+**Rechtliche Beschränkungen als größte Herausforderung:** *"Alles war
+hochvertraulich. Keiner durfte über irgendwas reden... es war strikt
+untersagt, die neuen Kollegen vor Tag 1 anzusprechen."*
+
+**Bedeutung der Unternehmenskultur:** *"Wir sind ein
+Familienunternehmen... das ist ein Riesenvorteil, wenn man nicht DAX
+notiert ist und sowas macht, dann kann man auch tatsächlich ein Stück
+weit den Menschen mal in den Mittelpunkt stellen."*
+
+**Erfolg durch Fokussierung:** *"Die ganze Firma, diese ganzen 17.000
+Hanseln... waren konzentriert darauf, diese 800 Menschen an Bord zu
+nehmen... wir hatten Executive Board Attention auf Tagesbasis."*
+
+**Key-User-Konzept als Lösung:** *"Ein Key-User kann ungefähr zehn
+End-User betreuen... das sollte dann auch langfristig in der
+Hypercare-Phase auch noch eine weitere Betreuung stattfinden."*
+
+**Pragmatischer Ansatz bei fehlenden Informationen:** *"Wir haben mit
+ganz vielen Annahmen gearbeitet... wir wussten ungefähr zu einem
+bestimmten Zeitpunkt, ja, da sind so um die 100 in Deutschland... aber
+was wir nicht wussten ist, was kommt denn da?"*
+
+### Offene Fragestellungen
+
+- **Sprachbarrieren:** Wie kann man Blue-Collar-Mitarbeiter in
+  verschiedenen Ländern effektiv in ihrer Muttersprache trainieren?
+- **Rollenabgrenzung:** Wie ordnet man Jobtitel aus Fremdsystemen den
+  eigenen Unternehmensrollen zu, wenn diese *"total anders"* heißen?
+- **Skalierbarkeit:** Wie kann ein Training-Konzept bei unbekannter
+  Zielgruppe und Skills der neuen Mitarbeiter entwickelt werden?
+- **Kapazitätsmanagement:** Wie bewältigt man die Überlastung kleiner
+  Büros, die plötzlich doppelt so viele Mitarbeiter betreuen müssen?
+
+### Handlungsempfehlungen
+
+**Frühe Vorbereitung trotz Beschränkungen:** - Aufbau von Awareness und
+Offenheit bei bestehenden Mitarbeitern - Etablierung von Coaching- und
+Buddy-Systemen zur Angstreduzierung - Nutzung bestehender Communities
+und Strukturen für die Integration
+
+**Key-User-Konzept implementieren:** - Nominierung von etwa einem
+Key-User pro zehn End-User - Intensive Vorab-Schulung der Key-User
+zwischen Oktober und Dezember - Langfristige Betreuung über die
+Hypercare-Phase hinaus
+
+**Technologie-gestützte Lösungen:** - Einsatz von SAP Enable Now für
+Simulationen bei fehlendem Systemzugang - Erstellung von
+E-Learning-Content für Grundlagen-Trainings - Nutzung von Teams Channels
+für kontinuierliche Kommunikation
+
+**Strukturierte Learning Journeys:** - Zweiteilige Aufteilung:
+Allgemeine Onboarding-Trainings gefolgt von System-Prozess-Trainings -
+Prozestrainings vor System-Trainings zur Vermittlung des
+End-to-End-Verständnisses - Optionale E-Learning-Module für
+unterschiedliche Vorerfahrungen
+
+**Monitoring und Support:** - Klare Kommunikationsstrategie zwischen
+End-Usern und Key-Usern - Ticket-System für IT-Probleme mit schneller
+Bearbeitung durch Projektteam - Tracking des Support-Volumens zur
+frühzeitigen Problemerkennung
+
+Das Projekt demonstrierte eindrucksvoll, wie durch strategische Planung,
+pragmatische Lösungsansätze und konsequente Fokussierung auf die
+Menschen eine erfolgreiche Integration auch unter schwierigsten
+Rahmenbedingungen gelingen kann.
 
 ## Andrea Flöth - HR neu gedacht - BARMERs digitale Evolution mit Hilfe von SAP Preferred Success
 
-...
+Andrea von der Barmer Krankenkasse berichtete über die dreijährige
+digitale Transformation des HR-Bereichs von dezentralen Pen &
+Paper-Prozessen hin zu zentralen digitalen Prozessen mit SAP
+SuccessFactors. Besonders hervorgehoben wurde die Rolle des SAP
+Preferred Success Services bei der Bewältigung technischer und
+organisatorischer Herausforderungen. Der Vortrag vermittelte
+authentische Einblicke in die Schwierigkeiten und Erfolge einer
+großangelegten HR-Digitalisierung in einem traditionellen Unternehmen
+mit einer heterogenen Mitarbeiterstruktur.
+
+### Gliederung und Aufbau des Vortrags
+
+**Ausgangssituation und Herausforderungen** - Unternehmenskontext der
+Barmer Krankenkasse - Demografische Herausforderungen der
+Mitarbeiterschaft - Technische Ausgangslage und Projektrahmen
+
+**Projektstruktur und strategische Entscheidungen** - Dreijahresplan und
+Wellenvorgehen - Face-to-Customer Workstream als gleichberechtigter
+Projektbereich - Change Management und Schulungsansätze
+
+**SAP Preferred Success im Detail** - Überblick über die
+Serviceleistungen - Praktische Anwendung und Nutzen - Konkrete
+Erfahrungen und Bewertung
+
+**Lessons Learned und kritische Reflexion** - Besondere
+Herausforderungen der Zeitwirtschaft - Change Management Erkenntnisse -
+Handlungsempfehlungen für ähnliche Projekte
+
+### Kernaussagen
+
+**Zur Ausgangssituation:** *"Als ich eingestiegen bin vor viereinhalb
+Jahren bei der Barmer, war der Altersschnitt 47. Und ihr müsst im Kopf
+behalten, wir schieben jedes Jahr 150, 200 Azubis rein. Das heißt, wir
+haben die Spreizung."*
+
+**Zur Projektphilosophie:** *"Jeder, der technische Projekte macht,
+weiß, am Ende rennt man nur und versucht, dass das Ding irgendwie läuft
+und alle weichen Themen hast du vergessen. Und das bedeutet, wir wollten
+das Projekt von Anfang an so aufgleisen, dass wir die weichen Themen
+nicht hinten überfallen lassen."*
+
+**Zu SAP Preferred Success:** *"Der ist auch sowas wie der verlängerte
+Arm in die SAP rein. Also der ist nicht ganz preiswert, der Service."*
+
+**Zur Zeitwirtschaft als kritisches Thema:** *"Völlig unterschätzt von
+meiner Seite, ganz ehrlich. \[...\] Weil das ist Brot und Butter. Wenn
+Gehalt nicht kommt und Zeit nicht geht, dann sind die Mitarbeiter
+angefressen."*
+
+### Konkrete Serviceleistungen von SAP Preferred Success
+
+- **SAP Learning Hub:** Eingeschränkt nutzbar aufgrund der
+  Sprachbarriere (überwiegend englische Inhalte)
+- **Solution Launch Checks:** Qualitätsprüfung der Partnerkonfiguration
+  gegen SAP-Standards
+- **Enhanced Release Guides:** Aufbereitung neuer Releases (wurde an
+  Partner delegiert)
+- **Escalation Support:** Intensiv genutzt bei kritischen
+  Partnerproblemen bis hin zur Global Escalation
+- **Advisory Services:** Strategische Beratung für HR-Aufstellung und
+  Best Practices
+
+### Offene Fragestellungen
+
+- Wie kann die Zeitwirtschaft in SAP SuccessFactors besser für
+  traditionelle Unternehmen mit komplexen Arbeitszeitmodellen optimiert
+  werden?
+- Welche Rolle sollten englischsprachige Lerninhalte in deutschen
+  Unternehmen mit geringer Englischaffinität spielen?
+- Wie können Change Management-Prozesse speziell für die Zeitwirtschaft
+  verbessert werden?
+- Welche Alternativen gibt es für Unternehmen mit Schichtarbeit und
+  Mitarbeitern ohne IT-Zugang?
+- Wie kann die Balance zwischen Standardsoftware und spezifischen
+  Unternehmensanforderungen besser gemanagt werden?
+
+### Handlungsempfehlungen
+
+**Projektstruktur:** - Gleichberechtigten Workstream für "weiche
+Faktoren" (Change Management, Schulungen, User Experience) etablieren -
+Face-to-Customer Aktivitäten von Projektbeginn an mitdenken und
+budgetieren
+
+**Change Management:** - Besondere Aufmerksamkeit für die Zeitwirtschaft
+als emotionales Kernthema - Frühzeitige und intensive Einbindung von
+Betriebsrat/Personalvertretung - *"Man muss sich da so ein bisschen
+überlegen, wie führe ich meine User an die Stellen, die die wirklich
+interessieren und welche Reports gebe ich denen auch von Tag 1 an die
+Hand"*
+
+**Technische Umsetzung:** - Solution Launch Checks nutzen zur
+Qualitätssicherung der Partnerkonfiguration - Maximale Transparenz bei
+Zeitberechnungen und -anzeigen schaffen - Reports und Darstellungen von
+Beginn an mitplanen, nicht nachträglich entwickeln
+
+**Servicestrategie:** - SAP Preferred Success als Risikominimierung für
+kritische Projekte erwägen - Escalation Support als "Versicherung" für
+Partnerprobleme einkalkulieren - Advisory Services für strategische
+HR-Entscheidungen nutzen
+
+**Realistische Erwartungen:** - *"Ich glaube, ich hätte es nicht
+gemacht, wenn ich Rollover-Schicht gehabt hätte. Dann hätte ich es auf
+gar keinen Fall gemacht."* - Zeitwirtschaft als potentiellen
+Projektkiller ernst nehmen und entsprechend vorbereiten - Bei
+heterogener Mitarbeiterstruktur besondere Schulungskonzepte entwickeln
 
 ## Mareike Muth - Übersetzer der Moderne - Das Learning Team als Katalysator zwischen Fachbereich und Enduser
 
-...
+Mareike präsentierte die Herausforderungen und Lösungsansätze beim
+unternehmensinternen Wissensmanagement. Der Vortrag beleuchtete den
+gescheiterten Versuch, Fachbereiche zu eigenständigen Autoren in SAP
+EnableNow zu befähigen, und die erfolgreiche Umstellung auf ein
+zentrales Workshop-Modell. Dabei wurde deutlich, wie wichtig die
+richtige Balance zwischen zentraler Expertise und dezentraler Umsetzung
+für nachhaltiges Wissensmanagement ist.
+
+### Gliederung und Aufbau des Vortrags
+
+**Unternehmenskontext und Team-Struktur** - Vorstellung von MEWA als
+B2B-Textilservice-Unternehmen - Positionierung des
+Wissensmanagement-Teams in der IT-Abteilung - Teamzusammensetzung: 10
+Mitarbeiter mit unterschiedlichen Expertisen
+
+**Das gescheiterte Autorenkonzept** - Ursprüngliche Strategie zur
+Befähigung der Fachbereiche - Implementierung von SAP EnableNow - Gründe
+für das Scheitern des Konzepts
+
+**Das neue Workshop-Modell** - Entwicklung der alternativen
+Herangehensweise - Prozessablauf und Verantwortlichkeiten -
+Qualitätssicherung und Wartung
+
+**Tools und technische Umsetzung** - Eingesetzte Systeme und deren
+Integration - Aufbau einer Wissensbibliothek
+
+### Kernaussagen
+
+**Zur Organisationsstruktur:** *"Wir sitzen in der IT, wir verstehen uns
+allerdings nicht als ITler bei uns, sondern wir wollen wirklich das
+Gesicht zum internen Kunden sein."*
+
+**Zum gescheiterten Autorenkonzept:** *"Die Fachbereiche, die wollten
+das zwar haben, die wollten gerne ihre Inhalte dort haben, aber sie
+hatten überhaupt keine Ressource, das umzusetzen. Denn leider ist es
+zumindest bei uns so, dass das Tagesgeschäft doch so Themen wie
+Dokumentation häufig einfach killt."*
+
+**Zur Realität im Arbeitsalltag:** *"Sind wir ehrlich, wenn ich nicht
+weiß, wie ich im System was klicke, dann rufe ich halt eben gerade mal
+den Kollegen XY an und der wird es mir schon sagen."*
+
+**Zum Workshop-Modell:** *"Wir machen gemeinsame Termine. Wir machen
+Workshops, wir machen Werbung intern und sagen, was wir können, was man
+bei uns ablegen kann und wie wir unterstützen können."*
+
+**Zur Qualitätssicherung:** *"Nach wie vor ist es bei uns so, dass
+alles, was erstellt wird, immer nur von uns veröffentlicht wird."* Dies
+umfasst Datenschutz, Corporate Identity-Konformität und interne
+Qualitätssicherung.
+
+### Offene Fragestellungen
+
+Während des Vortrags wurden mehrere strategische Fragen aufgeworfen:
+
+- **Ressourcenverteilung:** Wie kann die Balance zwischen zentraler
+  Expertise und dezentraler Umsetzung optimiert werden?
+- **Technologische Weiterentwicklung:** Werden neue Tools wie WalkMe die
+  Komplexität reduzieren und Fachbereichen wieder eigenständige
+  Autorschaft ermöglichen?
+- **Skalierbarkeit:** Wie kann ein 10-köpfiges Team die
+  Dokumentationsanforderungen eines gesamten Unternehmens bewältigen?
+- **Aktualität:** *"Wie stellt ihr denn sicher, dass das Wissen auch
+  aktuell gehalten wird?"* - Eine zentrale Herausforderung für
+  nachhaltiges Wissensmanagement
+- **Messbarkeit:** Wie können Nutzungsdaten zur Optimierung der
+  Wissensinhalte verwendet werden, wenn betriebsratliche Beschränkungen
+  bestehen?
+
+### Handlungsempfehlungen
+
+**Für die Einführung von Wissensmanagement-Systemen:** - Realistische
+Einschätzung der verfügbaren Ressourcen in Fachbereichen -
+Berücksichtigung des Tagesgeschäfts bei der Planung von
+Autorenschulungen - Aufbau einer zentralen Expertise als Alternative zu
+dezentralen Ansätzen
+
+**Für die Organisationsgestaltung:** - Positionierung des
+Wissensmanagement-Teams als *"Übersetzer"* zwischen IT und
+Endanwendern - Etablierung als *"Gesicht zum internen Kunden"* für
+bessere Change-Management-Prozesse - Integration in alle IT-Projekte von
+Beginn an
+
+**Für die Qualitätssicherung:** - Zentrale Kontrolle über
+Veröffentlichungsprozesse - Systematische Berücksichtigung von
+Datenschutz und Corporate Identity - Regelmäßige Wartung und
+Aktualisierung der Inhalte
+
+**Für die Zukunftsplanung:** - Kontinuierliche Evaluation neuer
+Technologien auf ihre Benutzerfreundlichkeit - Aufbau von
+Feedback-Mechanismen zur Bewertung der Inhaltsrelevanz - Entwicklung von
+Train-the-Trainer-Konzepten für Großprojekte
+
+Der Vortrag verdeutlichte, dass erfolgreiches Wissensmanagement weniger
+von der gewählten Technologie abhängt als von der realistischen
+Einschätzung organisatorischer Gegebenheiten und der Bereitschaft,
+bewährte Konzepte zu überdenken, wenn sie in der Praxis nicht
+funktionieren.
 
 # Sessions & Workshops
 
