@@ -448,7 +448,120 @@ Kreativität und Produktivität.
 
 ## Jochen Robes - Trends in Corporate Learning - mehr als KI!
 
-...
+Jochen Robes, bekannt für seinen Weiterbildungsblog und
+Gründungsmitglied der Corporate Learning Community, präsentierte in
+seinem Vortrag aktuelle Trends im Corporate Learning mit einem
+spezifischen Fokus auf zwei zentrale Bereiche: KI-Kompetenzen und
+Peer-Learning. Der Vortrag beleuchtete die Diskrepanz zwischen
+theoretisch vorhandenen KI-Kompetenzmodellen und der praktischen
+Umsetzung in Unternehmen und stellte Peer-Learning als mögliche Lösung
+zur Schließung dieser Lücke vor.
+
+#### Gliederung und Aufbau des Vortrags
+
+**KI-Kompetenzen im Kontext von Future Skills**
+
+Robes ordnete KI-Kompetenzen zunächst in den größeren Rahmen der Future
+Skills ein und betonte deren nahtlose Integration in bestehende
+Kompetenzmodelle. Er stellte fest: *"Wir haben ein relativ klares Bild
+davon, was hinter KI-Kompetenzen steckt"* und verwies auf bereits
+vorhandene, prominente Kompetenzmodelle für KI-Kompetenzen.
+
+Ein zentraler Aspekt war die Verbindung zu Handlungskompetenzen. Der
+Referent betonte: *"Es muss darum gehen, KI-Kompetenzen in der Praxis zu
+erwerben"*, wodurch deutlich wurde, dass es nicht um reine
+Wissensansammlung geht, sondern um praktische Anwendungskompetenz.
+
+**Die Kompetenzlücke in der Praxis**
+
+Trotz vorhandener theoretischer Konzepte diagnostizierte Robes eine
+erhebliche Lücke zwischen Theorie und Praxis. Er verwies auf aktuelle
+Studien, die zeigen, dass *"es mit der KI-Kompetenz, was Schulung,
+Entwicklung, Praxis angeht, noch nicht so gut bestellt ist"*.
+
+Besonders problematisch sei die Diskrepanz zwischen zwei
+Geschwindigkeiten: - Einerseits die Integration von KI in
+Geschäftsmodelle und -strategien - Andererseits Mitarbeitende, die *"da
+einfach noch deutlich hinterherhinken"*
+
+**L&D und der Fokus auf Effizienz**
+
+Im Bereich Learning & Development (L&D) beobachtete Robes eine starke
+Konzentration auf Effizienzsteigerung. KI-Tools werden primär genutzt,
+um *"bestehende Prozesse effizienter zu machen"*, beispielsweise bei der
+Herstellung, Übersetzung und Individualisierung von Lernmaterialien.
+
+Kritisch merkte er an, dass Experten dazu raten, *"nicht nur auf diese
+Automatisierungsschiene"* zu schauen, sondern KI-Möglichkeiten zu
+nutzen, um *"Weiterbildung auch mal ganz anders zu denken"*.
+
+**Peer-Learning als Lösungsansatz**
+
+Als Alternative zu traditionellen Trainingsformaten stellte Robes
+Peer-Learning vor. Er definierte es als Lernen *"voneinander und
+miteinander, ohne dass Trainerinnen, Expertinnen, Referentinnen eine
+tragende Rolle haben"*.
+
+Das Praxisbeispiel der Deutschen Telekom verdeutlichte die Umsetzung:
+Eine Plattform, auf der Mitarbeitende eigenständig 45-minütige
+Wissenssessions anbieten können, ohne dass eine Trainingsabteilung
+involviert ist. *"Jeder kann dort den Kalender nutzen und kann sagen,
+ich habe Wissen zum Thema XY und möchte das gerne mit anderen teilen."*
+
+#### Kernaussagen des Vortrags
+
+- **Theorie-Praxis-Gap**: *"Wir haben einen großen Gap, was das Thema
+  KI-Kompetenzen angeht, was Schulungen angeht"*
+- **Handlungsorientierung**: *"Es kann nicht darum gehen, Wissen in
+  diesem Gebiet anzusammeln, sondern es muss darum gehen, KI-Kompetenzen
+  in der Praxis zu erwerben"*
+- **Peer-Learning als Brücke**: *"Aus meiner Sicht könnte Peer-Learning
+  hier eine Lücke schließen"*
+- **Vielfalt der Formate**: Robes präsentierte eine breite Palette an
+  Peer-Learning-Formaten, von Communities of Practice über Working Out
+  Loud bis hin zu Learning Circles und Promptatons
+
+#### Offene Fragestellungen
+
+Während des Vortrags wurden mehrere zentrale Fragen aufgeworfen:
+
+- Wie kann die Lücke zwischen vorhandenen KI-Kompetenzmodellen und der
+  praktischen Umsetzung in Unternehmen geschlossen werden?
+- Wie können Mitarbeitende ohne traditionelle Trainingsformate an
+  KI-Kompetenzen herangeführt werden?
+- Welche Rolle sollte L&D jenseits der reinen Effizienzsteigerung bei
+  der KI-Integration spielen?
+- Wie kann Peer-Learning systematisch in Unternehmen verschiedener
+  Größen implementiert werden?
+
+#### Handlungsempfehlungen
+
+Aus dem Vortrag lassen sich folgende konkrete Handlungsempfehlungen
+ableiten:
+
+- **Praxisorientierung fördern**: Unternehmen sollten KI-Kompetenzen
+  durch praktische Anwendung entwickeln, nicht durch reine
+  Wissensvermittlung
+- **Peer-Learning-Formate einführen**: Implementation von einfachen
+  Formaten wie Kalender-basierten Wissenssessions nach dem
+  Telekom-Vorbild
+- **Über Effizienz hinausdenken**: L&D sollte KI nicht nur zur
+  Prozessoptimierung nutzen, sondern grundsätzlich neue Lernansätze
+  entwickeln
+- **Niedrigschwellige Angebote schaffen**: Peer-Learning-Formate mit
+  geringen Einstiegshürden etablieren, die Mitarbeitende eigenständig
+  nutzen können
+- **Vielfalt der Formate nutzen**: Verschiedene Peer-Learning-Methoden
+  (Barcamps, Learning Circles, Working Out Loud) je nach
+  Unternehmenskontext einsetzen
+- **Kontinuierliche Weiterbildung**: Regelmäßige Beschäftigung mit
+  aktuellen Trends durch Newsletter und Fachpublikationen
+
+Der Vortrag verdeutlichte, dass die Zukunft des Corporate Learning in
+der Kombination aus technologischer Innovation und menschenzentrierten,
+kollaborativen Lernformaten liegt. Peer-Learning bietet dabei einen
+vielversprechenden Ansatz, um die Kluft zwischen theoretischen
+KI-Kompetenzmodellen und praktischer Anwendung zu überbrücken.
 
 ## Eva Stock: Superkräfte bei Mitarbeitenden - Was ist wichtig aus HR und People Sicht?
 
