@@ -889,11 +889,232 @@ Meisterschaft"* - eine treffende Zusammenfassung der zentralen Botschaft
 
 ## Moritz Huber - KI im Lern-Lifecycle - PoC für KI-gestütztes Anwenderlernen
 
-...
+Moritz von SAP Learning Services stellte einen innovativen Proof of
+Concept vor, der Künstliche Intelligenz zur automatisierten Erstellung
+von Schulungsunterlagen und Lernbedarfsanalysen einsetzt. Das System
+integriert verschiedene Datenquellen wie SAP-Standarddokumentation,
+Signavio-Prozessinformationen und kundenspezifische Daten, um den
+Aufwand für die Schulungsunterlagenerstellung erheblich zu reduzieren.
+Erste Pilotprojekte zeigen vielversprechende Zeitersparnisse von bis zu
+60%.
+
+### Gliederung und Aufbau des Vortrags
+
+**Problemstellung und Motivation** - Herausforderungen der manuellen
+Schulungsunterlagenerstellung - Zeitdruck in Projektphasen und
+Aktualisierungsproblematik
+
+**Lösungsansatz mit KI** - Integration verschiedener Input-Quellen -
+Automatisierte Content-Generierung - Beibehaltung des Human Factors
+
+**Technische Demonstration** - Live-Demo der Plattform - Prozess von der
+Lernbedarfsanalyse bis zum fertigen Content - Integration mit
+Drittsystemen wie Synthesia
+
+**Ausblick und Verfügbarkeit** - Aktueller Entwicklungsstand - Pricing
+und Markteinführung
+
+### Kernaussagen
+
+**Zielsetzung der KI-Lösung:** *"Es geht mir nicht darum, dass die KI
+unsere Arbeit im Thema Lerncontent-Erstellung wegnimmt, sondern
+erleichtert. Es geht darum, Effort zu reduzieren, Aufwand zu reduzieren,
+Zeit bis zum Go-Live zu reduzieren."*
+
+**Qualitätsfaktor Input:** *"Je mehr Input ich vom Projekt habe, umso
+besser wird die Qualität des AI-Outputs. Je mehr wir von SAP Standard
+ausgehen, umso mehr standardisiert ist der Endanwender-Content."*
+
+**Praxiserfahrung:** *"Einer der größten Kunden, mit denen wir jetzt
+gerade machen, Schneider Electric in Frankreich, die haben selbst von
+sich aus gesagt, dass sie 60% ihrer Zeit für
+Schulungsunterlagenerstellung dadurch sparen."*
+
+**Human Factor:** *"Es wird immer einen Human Factor im Learning geben
+und das ist umstrittig, da bin ich dabei."*
+
+**Methodische Unterstützung:** *"Wir machen in der Lösung nicht nur die
+Content-Erstellung, sondern der Hintergrund ist auch, dass wir die
+Lernbedarfsanalyse mit einbauen wollen."*
+
+### Technische Funktionsweise
+
+**Input-Quellen:** - SAP-Standarddokumentation (Subhelp,
+Learning.sap.com) - Signavio-Prozessinformationen - Kundenspezifische
+Konfigurationsdaten - Master- und Transaktionsdaten für Übungsbeispiele
+
+**Output-Formate:** - Textbasierte Inhalte für verschiedene
+Lernformate - Automatische Zuordnung von Delivery-Methoden - Integration
+mit Video-Tools wie Synthesia - HTML-Export für verschiedene Plattformen
+
+**Technische Basis:** Das System basiert auf SAP AI-Core und nutzt
+Prompting-Technologien zur Content-Generierung.
+
+### Offene Fragestellungen
+
+- **Skalierbarkeit:** Wie verhält sich das System bei sehr großen,
+  internationalen Rollout-Projekten?
+- **Customizing-Grenzen:** Welche Grenzen gibt es bei stark
+  kundenindividuellen Anpassungen?
+- **Learning-Capabilities:** Kann das System aus Kundenfeedback lernen
+  und sich kontinuierlich verbessern?
+- **Content-Type-Flexibilität:** Wie flexibel ist die Anpassung an
+  unternehmensspezifische Trainingsstrategien?
+- **Qualitätssicherung:** Welche Mechanismen gewährleisten die fachliche
+  Korrektheit der generierten Inhalte?
+
+### Handlungsempfehlungen
+
+**Für Projektverantwortliche:** - Frühzeitige Einbindung der KI-Lösung
+in die Projektplanung - Sicherstellung qualitativ hochwertiger
+Input-Daten aus Signavio und anderen Quellen - Definition einer klaren
+Trainingsstrategie vor Systemnutzung
+
+**Für Learning-Experten:** - Kontinuierliches Review und Nachbearbeitung
+der AI-generierten Inhalte - Nutzung der Challenge-Funktionen zur
+Verfeinerung der Ergebnisse - Integration der Lösung in bestehende
+Autorensysteme wie EnableNow
+
+**Für Unternehmen:** - Evaluation der Lösung in Pilotprojekten vor
+Vollimplementierung - Berücksichtigung der Standalone-Architektur bei
+der Tool-Landschaft - Vorbereitung auf Change Management Integration in
+zukünftigen Versionen
+
+**Strategische Überlegungen:** - Aufbau interner Kompetenzen für
+KI-gestützte Content-Erstellung - Definition von Qualitätsstandards für
+automatisch generierte Lerninhalte - Planung für kontinuierliche Updates
+und Maintenance
+
+Die vorgestellte Lösung zeigt das Potenzial von KI zur Transformation
+traditioneller Schulungserstellungsprozesse, wobei der Fokus auf
+Effizienzsteigerung bei gleichzeitiger Beibehaltung menschlicher
+Expertise liegt.
 
 ## Mike Fritz und Christoph Kernke - SAP Enable Now trifft auf WalkMe und die SAP Integrated Toolchain
 
-...
+Der Vortrag behandelt die Herausforderungen und Lösungsansätze für
+kontinuierliche Transformationen in Unternehmen im Zeitalter der
+Künstlichen Intelligenz. Die Referenten Christoph und Maik erläutern,
+wie sich Transformationszyklen drastisch verkürzen und warum
+traditionelle Ansätze nicht mehr ausreichen. Sie stellen das Konzept der
+"Human Superpowers" vor, das durch die Integration von Menschen,
+Prozessen, Daten und Technologie entstehen soll. Ein zentraler Punkt ist
+die SAP Integrated Toolchain, die verschiedene SAP-Tools miteinander
+verbindet, um Transformationen zu digitalisieren. Zusätzlich wird die
+strategische Neuausrichtung von EnableNow und die Integration von WalkMe
+als neue Digital Adoption Platform erläutert.
+
+### Gliederung und Aufbau des Vortrags
+
+**1. Einführung: Die neue Realität der Transformationen** - Zunehmende
+Komplexität und verkürzte Transformationsintervalle - Historischer
+Rückblick auf SAP-Generationen (R1, R2, R3) - Zeitdruck durch
+AI-Innovationen
+
+**2. Die vier Säulen der Continuous Transformation** - People:
+Individueller Content und Bildschirmhilfen - Process: Umgang mit 160.000
+Transaktionen in S/4HANA - Data: Intelligenz aus bestehenden Systemen
+ziehen - Technology: Planerisches Vorgehen und permanente Transparenz
+
+**3. SAP Integrated Toolchain** - Integration verschiedener SAP-Tools -
+Praktische Anwendungsbeispiele - Umfrage zur aktuellen Tool-Integration
+bei Kunden
+
+**4. EnableNow und WalkMe: Strategische Neuausrichtung** - Feature
+Freeze für EnableNow - Entwicklung von WalkMe Learning - Migrationspfade
+und Wartungsgarantien
+
+### Kernaussagen
+
+**Zur Transformation der Zukunft:** *"Wenn ich irgendeine AI-Innovation
+habe und eine Firma, ein Konkurrent von Ihnen lässt das laufen für sechs
+Monate oder für ein Jahr, kann der so viel Savings generieren in dem
+Bereich, dass man einfach nicht mehr diese Iterationen von
+Transformationszyklen aus der Vergangenheit anwenden kann in der
+Gegenwart und in der Zukunft."*
+
+**Zur Bedeutung des Menschen:** *"Der Erfolg einer Transformation ist
+ungefähr zwischen 59 und 64 Prozent abhängig von Personen."* Diese
+Aussage basiert auf einer Studie der Boston Consulting Group und
+unterstreicht die zentrale Rolle des Faktors Mensch.
+
+**Zur technologischen Entwicklung:** *"Ein ECC-System hatte 90.000
+Transaktionen. Es sind \[in S/4HANA\] 160.000 da. Das ist der
+Innovationssprung, den wir ausgeführt haben."*
+
+**Zum Paradox aktueller Transformationen:** *"Wir machen
+Transformationen, um AI zu haben, um in der Cloud zu sein, um die coolen
+Dinge zu machen. Aber den Weg dahin machen wir noch immer mit Steinen
+und Meißel."*
+
+**Zur EnableNow-Zukunft:** *"Die Wartung von EnableNow Cloud läuft
+uneingeschränkt bis 2030 weiter. Da gibt es Gerüchte im Markt, die sind
+schlicht unwahr."*
+
+### Offene Fragestellungen
+
+Während des Vortrags wurden mehrere wichtige Fragestellungen
+aufgeworfen:
+
+- Wie können Unternehmen den Innovationszyklen der SAP folgen und dabei
+  alle verfügbaren Features nutzen?
+- Welche konkreten Schritte sind notwendig, um von traditionellen
+  Transformationsansätzen zu Continuous Transformation überzugehen?
+- Wie lassen sich bestehende Investitionen in EnableNow-Content bei der
+  Migration zu neuen Plattformen schützen?
+- Wann ist der optimale Zeitpunkt für den Umstieg von EnableNow auf
+  WalkMe Learning?
+- Wie können Unternehmen die Value-Leakage vermeiden, die durch nicht
+  konsumierte Innovationen entsteht?
+
+### Handlungsempfehlungen
+
+#### Sofortige Maßnahmen:
+
+- Akzeptanz, dass Transformationen selbst digitalisiert werden müssen
+- Beginn der Integration vorhandener SAP-Tools zur Schaffung einer
+  "Transformationsmaschine"
+- Nutzung von AI zur Analyse von Systemdaten und Prozessen statt
+  manueller Erfassung
+
+#### Mittelfristige Strategien:
+
+- Aufbau einer SAP Integrated Toolchain mit mindestens 14 verfügbaren
+  Integrationen
+- Implementierung von Tools zur automatischen Erkennung von Prozess- und
+  UI-Problemen
+- Entwicklung einer Governance-Struktur für kontinuierliche
+  Transformationen
+
+#### Langfristige Planung:
+
+- Vorbereitung auf einen Zeithorizont von maximal drei bis vier Jahren
+  für Continuous Transformation
+- Investition in die Verbindung von AI und menschlichen Fähigkeiten zu
+  "Human Superpowers"
+- Strategische Planung für die Migration von EnableNow zu WalkMe
+  Learning
+
+#### Konkrete Tool-Empfehlungen:
+
+- Integration von Signavio mit LeanIX für automatische
+  Prozessmodell-Generierung
+- Verknüpfung von Cloud ALM mit EnableNow für strukturierte
+  Dokumentation
+- Nutzung von WalkMe für erweiterte Digital Adoption
+  Platform-Funktionalitäten
+
+#### Für EnableNow-Bestandskunden:
+
+- Fortsetzung der Content-Erstellung bis 2030 ohne Bedenken
+- Vorbereitung auf Migrationspfade, die voraussichtlich Q1/Q2 2025
+  verfügbar werden
+- Nutzung der bestehenden Integrationen zur Maximierung des ROI
+
+Der Vortrag macht deutlich, dass Unternehmen nicht nur ihre
+Geschäftsprozesse, sondern auch ihre Transformationsansätze grundlegend
+überdenken müssen, um in der beschleunigten digitalen Welt erfolgreich
+zu sein.
 
 ## Patrick Fueldner - Von der Einführung zur Skalierung - Nestlés Digital Adoption-Strategie mit WalkMe
 
