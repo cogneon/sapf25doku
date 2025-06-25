@@ -17,6 +17,16 @@ toc-own-page: true
 - [[2]{.toc-section-number} Programm](#programm){#toc-programm}
 - [[3]{.toc-section-number} Workflow der KI-generierten
   Zusammenfassung](#workflow-der-ki-generierten-zusammenfassung){#toc-workflow-der-ki-generierten-zusammenfassung}
+  - [[3.1]{.toc-section-number} Interview mit Yemisi
+    Ogunleye](#interview-mit-yemisi-ogunleye){#toc-interview-mit-yemisi-ogunleye}
+    - [[3.1.1]{.toc-section-number} Aufbau und Struktur des
+      Interviews](#aufbau-und-struktur-des-interviews){#toc-aufbau-und-struktur-des-interviews}
+    - [[3.1.2]{.toc-section-number}
+      Kernaussagen](#kernaussagen){#toc-kernaussagen}
+    - [[3.1.3]{.toc-section-number} Offene
+      Fragestellungen](#offene-fragestellungen){#toc-offene-fragestellungen}
+    - [[3.1.4]{.toc-section-number} Handlungsempfehlungen für die
+      Unternehmenspraxis](#handlungsempfehlungen-für-die-unternehmenspraxis){#toc-handlungsempfehlungen-für-die-unternehmenspraxis}
 - [[4]{.toc-section-number}
   Impulsvorträge](#impulsvorträge){#toc-impulsvorträge}
   - [[4.1]{.toc-section-number} Timo Deiner: Appet-ai-te for
@@ -214,6 +224,177 @@ Bereitstellnug der Inhalte weitgehend automatisiert:
     [Chatbox](https://chatboxai.app/),
     [GPT4All](https://www.nomic.ai/gpt4all), [Open
     WebUI](https://openwebui.com/)) zu verwenden.
+
+## Interview mit Yemisi Ogunleye
+
+> Am Vorabend des Forums führten Thomas Jenewein und Seyde Sosnovski ein
+> Interview mit der Olympiasiegering im Kugelstoßen [Yemisi
+> Ogunleye](https://de.wikipedia.org/wiki/Yemisi_Ogunleye).
+
+**Das Interview mit Yemisi Ogunleye, der amtierenden Olympiasiegerin im
+Kugelstoßen, zeigt eindrucksvoll auf, wie Prinzipien und Methoden aus
+dem Spitzensport erfolgreich auf die Unternehmenswelt übertragen werden
+können. Die Athletin teilt ihre Erfahrungen zu Veränderungsmanagement,
+mentaler Stärke, Teamarbeit und kontinuierlichem Lernen und bietet dabei
+konkrete Handlungsempfehlungen für Führungskräfte und Teams in der
+Wirtschaft.**
+
+### Aufbau und Struktur des Interviews
+
+Das Gespräch gliederte sich in mehrere thematische Schwerpunkte:
+
+• **Umgang mit Veränderungen**: Ogunleye erklärt ihre Herangehensweise
+an berufliche und persönliche Wendepunkte. Sie betont die Wichtigkeit,
+Veränderungen als Chancen zu begreifen und positiv anzunehmen.
+
+• **Aktivierung von "Superkräften" und mentalem Training**: Die
+Olympiasiegerin teilt ihre Methoden zur mentalen Vorbereitung und
+Visualisierung. Sie beschreibt konkrete Techniken, um in entscheidenden
+Momenten Höchstleistungen abzurufen.
+
+• **Rolle von Emotionen und Authentizität**: Ein zentrales Thema ist die
+Bedeutung emotionaler Offenheit im professionellen Umfeld. Ogunleye
+plädiert für mehr Authentizität und das Zulassen von Freude am
+Arbeitsplatz.
+
+• **Lernen und Entwicklung im Spitzensport**: Die Athletin erläutert
+ihre Lernstrategien und betont besonders den Wert des Scheiterns. Sie
+zeigt auf, wie Rückschläge als wichtige Entwicklungschancen genutzt
+werden können.
+
+• **Teamarbeit und Wertschätzung**: Trotz ihrer individuellen Erfolge
+hebt Ogunleye die Bedeutung ihres Unterstützungsteams hervor. Sie gibt
+konkrete Tipps zur praktischen Wertschätzung von Teammitgliedern.
+
+• **Umgang mit Erfolg und Misserfolg**: Die Olympiasiegerin teilt ihre
+Strategien für den Umgang mit Höhen und Tiefen. Sie erklärt, wie sie
+sowohl Siege als auch Niederlagen konstruktiv verarbeitet.
+
+### Kernaussagen
+
+#### Veränderungen als Chance begreifen
+
+Ogunleye betont die fundamentale Bedeutung der richtigen Einstellung zu
+Veränderungen: *"Veränderungen sind nicht immer unbedingt was Negatives
+und ich versuche Veränderungen erstmal mit einer positiven Art und Weise
+anzunehmen."* Ihre eigene Karriere illustriert dies eindrucksvoll -- der
+verletzungsbedingte Wechsel vom Siebenkampf zum Kugelstoßen führte
+letztendlich zu olympischem Gold.
+
+Die Athletin beschreibt ihre anfänglichen Ängste vor der
+Spezialisierung: *"Von sieben Disziplinen plötzlich nur noch eine
+Disziplin und dann ausgerechnet Kugelstoßen."* Doch sie erkannte, dass
+*"Kugelstoßen an sich auch so viele Facetten hat und eine extrem schöne,
+aber gleichzeitig auch eine sehr herausfordernde Disziplin ist."*
+
+#### Mentale Stärke als entscheidender Erfolgsfaktor
+
+Der Schlüssel zu Höchstleistungen liegt laut Ogunleye in der mentalen
+Vorbereitung: *"Man kann so fit sein, wie man will und so gut sein im
+Kraftraum, wie man will. Aber wenn ich an Tag X nicht in der Lage bin,
+meinen Körper so zu steuern, dass ich an dem Tag Höchstleistungen
+bringe, bringt mir auch die ganze harte Arbeit nichts."*
+
+Ihre Visualisierungstechniken umfassen sowohl positive als auch negative
+Szenarien: *"Ich stelle mir oft vor, wie ich auch auf Versagen reagiere.
+Es gehört auch dazu, dass im Wettkampf nicht immer alles läuft."* Diese
+mentale Vorbereitung bewährte sich bei den Olympischen Spielen, als sie
+im ersten Versuch ausrutschte, aber dennoch Gold gewann.
+
+#### Emotionen als Erfolgskatalysator
+
+Ogunleye plädiert für mehr Authentizität und emotionale Offenheit: *"Die
+Freude, die man hat, auch mit in die Arbeitswelt zu nehmen, auch in die
+Sportlerwelt mit reinzunehmen."* Sie empfiehlt, sich an den
+ursprünglichen Grund der Begeisterung zu erinnern: *"Mir hilft es immer
+wieder, mich an den Punkt zurückzuerinnern, wo ich mich das erste Mal in
+diesen Sport verliebt habe."*
+
+#### Lernen durch Scheitern
+
+Ein zentraler Baustein ihrer Entwicklung ist der konstruktive Umgang mit
+Rückschlägen: *"Was wirklich der größte Lerneffekt für mich in den
+letzten Jahren war, ist das Versagen."* Sie betont: *"Ich finde, dass
+auch Herausforderungen oder auch Verletzungen oder wie auch immer man
+das nennt, Teil von dem Prozess sind, Teil des Lernprozesses, der
+Entwicklung sind, die man aktiv annehmen sollte."*
+
+#### Teamarbeit und Wertschätzung
+
+Trotz ihrer individuellen Erfolge hebt Ogunleye die Bedeutung ihres
+Teams hervor: *"Ich sage immer nicht, ich bin Olympiasiegerin geworden,
+sondern das war eine Teamarbeit. Wir haben das gemeinsam auf die Beine
+gestellt und hinbekommen."*
+
+Konkrete Wertschätzung zeigt sie durch: *"Ganz praktisch, nach jedem
+Training mich zu bedanken"* und *"ein einfaches Dankeschön wird, glaube
+ich, einfach auch oftmals unterschätzt und wird einfach so sehr
+gebraucht."*
+
+### Offene Fragestellungen
+
+Während des Interviews wurden mehrere wichtige Fragen aufgeworfen:
+
+• **Nachhaltigkeit von Motivation**: Wie können Teams langfristig ihre
+Begeisterung aufrechterhalten, besonders in schwierigen Phasen?
+
+• **Balance zwischen Individualität und Teamleistung**: Wie lassen sich
+persönliche Emotionen und Authentizität in teamorientierten
+Arbeitsumgebungen optimal einsetzen?
+
+• **Übertragbarkeit von Visualisierungstechniken**: Welche Anpassungen
+brauchen mentale Trainingsmethoden für verschiedene
+Unternehmensbereiche?
+
+• **Messbarkeit von "weichen" Faktoren**: Wie können Unternehmen den
+Erfolg von emotionaler Intelligenz und mentaler Stärke quantifizieren?
+
+### Handlungsempfehlungen für die Unternehmenspraxis
+
+#####Sofortige Umsetzungsmaßnahmen:
+
+• **Tägliche Dankbarkeitsrituale einführen**: *"Ein einfaches
+Dankeschön"* nach Meetings oder Projektabschlüssen etablieren
+
+• **Visualisierungstechniken implementieren**: 5-10 Minuten täglich für
+mentale Vorbereitung auf wichtige Termine oder Herausforderungen
+einplanen
+
+• **Positive Selbstgespräche fördern**: *"Morgen wird ein besserer Tag,
+die Sonne wird wieder scheinen"* als Grundhaltung in schwierigen
+Situationen
+
+#### Strategische Entwicklungsansätze:
+
+• **Scheitern als Lernchance etablieren**: Eine Unternehmenskultur
+schaffen, die Fehler als wertvollen Teil des Entwicklungsprozesses
+betrachtet
+
+• **Emotionale Authentizität fördern**: *"Zu sein, wie man einfach ist"*
+und Freude am Arbeitsplatz zulassen
+
+• **Teamziele gemeinsam definieren**: *"Als Team zusammenzuarbeiten,
+sich gewisse Ziele als Team zu stecken"*
+
+• **Langfristige Vision entwickeln**: Das große Ziel im Blick behalten,
+auch wenn einzelne Tage nicht optimal verlaufen
+
+#### Führungsempfehlungen:
+
+• **Regelmäßige Wertschätzung ausdrücken**: Nicht nur bei großen
+Erfolgen, sondern auch für tägliche Beiträge danken
+
+• **Mentale Gesundheit priorisieren**: Zeit und Ressourcen für die
+psychische Vorbereitung und Regeneration einplanen
+
+• **Diversität in Herangehensweisen fördern**: Verschiedene Methoden der
+Zielerreichung respektieren und unterstützen
+
+Die Erkenntnisse aus Ogunleyes Spitzensport-Erfahrung zeigen, dass
+erfolgreiche Unternehmensführung weit über fachliche Kompetenz
+hinausgeht. Mentale Stärke, emotionale Intelligenz und authentische
+Teamarbeit sind entscheidende Faktoren für nachhaltigen Erfolg -- sowohl
+im Sport als auch in der Wirtschaft.
 
 # Impulsvorträge
 
