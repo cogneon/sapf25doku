@@ -565,7 +565,105 @@ KI-Kompetenzmodellen und praktischer Anwendung zu überbrücken.
 
 ## Eva Stock: Superkräfte bei Mitarbeitenden - Was ist wichtig aus HR und People Sicht?
 
-...
+Eva thematisiert in ihrem Vortrag die Bedeutung individueller
+menschlicher Stärken - sogenannte "Superkräfte" - im Arbeitskontext. Sie
+plädiert für einen Paradigmenwechsel von der traditionellen
+Schwächenfokussierung hin zur bewussten Wahrnehmung und Förderung der
+einzigartigen Qualitäten jedes Mitarbeitenden. Dabei betont sie die
+zentrale Rolle von HR und Führungskräften als "Superkräfte-Scouts" und
+fordert eine Unternehmenskultur, die Menschen als Ganzes sieht und
+wertschätzt.
+
+### Gliederung und Aufbau des Vortrags
+
+Der Vortrag gliedert sich in vier wesentliche Themenbereiche:
+
+- **Definition und Abgrenzung von "Superkräften"** - Klärung des
+  Begriffs jenseits übermenschlicher Fähigkeiten
+- **Problematik der aktuellen Bewertungssysteme** - Kritik am
+  Schwächenfokus in Unternehmen
+- **Rolle von HR und Führungskräften** - Verantwortlichkeiten bei der
+  Erkennung und Förderung
+- **Kulturelle Voraussetzungen und Handlungsempfehlungen** - Notwendige
+  Rahmenbedingungen für erfolgreiche Umsetzung
+
+### Kernaussagen des Vortrags
+
+**Definition von Superkräften:** *"Wenn wir hier jetzt über Superkräfte
+sprechen, dann meine ich nicht übermenschliche Kräfte... sondern mir
+geht es vor allem um individuelle menschliche Stärken."* Stock definiert
+Superkräfte als Qualitäten wie Empathie, Klarheit, Humor, Geduld,
+Beharrlichkeit, strukturelles Denken oder Konfliktfähigkeit.
+
+**Ganzheitliche Betrachtung des Menschen:** *"Menschen wollen als Ganzes
+gesehen werden... Es geht ja nicht nur darum, eine Rolle zu erfüllen, zu
+funktionieren, irgendwie abzuarbeiten, Haken zu machen, sondern ich bin
+ja auch ein Individuum."* Die Referentin betont die Wichtigkeit,
+Mitarbeitende nicht nur in ihrer beruflichen Rolle zu sehen.
+
+**Kritik am Schwächenfokus:** *"Wir rutschen in Feedback oder
+Bewertungsgesprächen quasi fast automatisch... in den Schwächenfokus.
+Also es geht immer darum, was fehlt eigentlich noch... als zu gucken,
+was kannst du eigentlich wirklich gut."* Stock kritisiert die
+traditionelle Fokussierung auf Defizite statt auf Stärken.
+
+**Führungskräfte als Schlüsselakteure:** *"Führungskräfte sind für mich
+schon auch diese Superkräfte-Scouts."* Sie sieht Führungskräfte in einer
+zentralen Position bei der Identifikation individueller Stärken.
+
+**Psychologische Sicherheit als Grundvoraussetzung:** *"Es braucht
+natürlich psychologische Sicherheit... damit man überhaupt in diese
+Gespräche gehen kann, weil wenn ich Angst habe, mich zu zeigen, auch
+vielleicht mit meinen Schwächen, kann das Gespräch überhaupt nicht in
+diese Richtung geleitet werden."*
+
+### Offene Fragestellungen
+
+Während des Vortrags werden mehrere zentrale Fragen aufgeworfen, die zur
+Reflexion anregen:
+
+- *"Was gelingt dir eigentlich gut, was anderen schwerfällt?"*
+- *"Was macht dir Freude? Wo kommst du in den Flow rein?"*
+- *"Was fällt dir leicht, was anderen schwerfällt?"*
+- *"Welche Superkräfte habe ich eigentlich selbst, die eben nicht auf
+  meinem CV stehen?"*
+
+Diese Fragen zielen darauf ab, sowohl bei Führungskräften als auch bei
+Mitarbeitenden ein Bewusstsein für verborgene Stärken zu schaffen und
+neue Gesprächsräume zu öffnen.
+
+### Handlungsempfehlungen
+
+**Für HR-Verantwortliche:** - Entwicklung guter Prozesse, Frageformate
+und Instrumente zur Stärkenerkennung - Schaffung von Awareness für die
+Existenz und Bedeutung individueller Stärken - Bereitstellung von Tools
+und Systemen zur Aufbereitung und Messbarmachung der Erkenntnisse -
+Implementierung von Peer-Feedback-Systemen
+
+**Für Führungskräfte:** - Anwendung stärkenorientierter Fragetechniken
+in One-on-One-Gesprächen - Entwicklung einer Sensibilität für
+individuelle Verhaltensweisen und Stimmungen - Übernahme der Rolle als
+"Superkräfte-Scout" im Team - Praktizierung individueller Führung je
+nach Bedürfnissen der Mitarbeitenden
+
+**Für die Unternehmenskultur:** - Schaffung psychologischer Sicherheit
+als Grundvoraussetzung - Ermöglichung einer Kultur der Entwicklung statt
+reiner Skill-Verwaltung - Akzeptanz, dass *"es okay ist, mal nicht zu
+funktionieren... und nicht immer High Potential zu sein"* - Offenheit
+für Entwicklungsmöglichkeiten auch außerhalb des Unternehmens
+
+**Für alle Beteiligten:** - Regelmäßige Selbstreflexion über eigene
+Superkräfte - Aktive Kommunikation über individuelle Bedürfnisse und
+Stärken - Wertschätzender Umgang mit unterschiedlichen
+Persönlichkeitstypen
+
+Stock schließt mit einem eindringlichen Appell: *"Ich würde mir einfach
+wünschen, dass ihr rausgeht und merkt, es gibt diese Superkräfte
+überall."* Sie fordert eine grundlegende Veränderung in der Art, wie
+Unternehmen mit ihren Mitarbeitenden umgehen - weg von standardisierten
+Bewertungsschablonen hin zu einer individuellen, wertschätzenden
+Betrachtung jedes Menschen mit seinen einzigartigen Stärken und
+Potenzialen.
 
 # Lightning Talks
 
