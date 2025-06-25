@@ -13,71 +13,7 @@ toc-depth: 3
 toc-own-page: true
 ---
 
-- [[1]{.toc-section-number} Willkommen](#willkommen){#toc-willkommen}
-- [[2]{.toc-section-number} Programm](#programm){#toc-programm}
-- [[3]{.toc-section-number} Workflow der KI-generierten
-  Zusammenfassung](#workflow-der-ki-generierten-zusammenfassung){#toc-workflow-der-ki-generierten-zusammenfassung}
-  - [[3.1]{.toc-section-number} Interview mit Yemisi
-    Ogunleye](#interview-mit-yemisi-ogunleye){#toc-interview-mit-yemisi-ogunleye}
-    - [[3.1.1]{.toc-section-number} Aufbau und Struktur des
-      Interviews](#aufbau-und-struktur-des-interviews){#toc-aufbau-und-struktur-des-interviews}
-    - [[3.1.2]{.toc-section-number}
-      Kernaussagen](#kernaussagen){#toc-kernaussagen}
-    - [[3.1.3]{.toc-section-number} Offene
-      Fragestellungen](#offene-fragestellungen){#toc-offene-fragestellungen}
-    - [[3.1.4]{.toc-section-number} Handlungsempfehlungen für die
-      Unternehmenspraxis](#handlungsempfehlungen-für-die-unternehmenspraxis){#toc-handlungsempfehlungen-für-die-unternehmenspraxis}
-- [[4]{.toc-section-number}
-  Impulsvorträge](#impulsvorträge){#toc-impulsvorträge}
-  - [[4.1]{.toc-section-number} Timo Deiner: Appet-ai-te for
-    disruption](#timo-deiner-appet-ai-te-for-disruption){#toc-timo-deiner-appet-ai-te-for-disruption}
-  - [[4.2]{.toc-section-number} Jochen Robes - Trends in Corporate
-    Learning - mehr als
-    KI!](#jochen-robes---trends-in-corporate-learning---mehr-als-ki){#toc-jochen-robes---trends-in-corporate-learning---mehr-als-ki}
-  - [[4.3]{.toc-section-number} Eva Stock: Superkräfte bei
-    Mitarbeitenden - Was ist wichtig aus HR und People
-    Sicht?](#eva-stock-superkräfte-bei-mitarbeitenden---was-ist-wichtig-aus-hr-und-people-sicht){#toc-eva-stock-superkräfte-bei-mitarbeitenden---was-ist-wichtig-aus-hr-und-people-sicht}
-- [[5]{.toc-section-number} Lightning
-  Talks](#lightning-talks){#toc-lightning-talks}
-  - [[5.1]{.toc-section-number} Frédéric Heinemann - Collaborative
-    Learning im SAP-Ecosystem - Key-User als Mentoren der
-    Zukunft](#frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft){#toc-frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft}
-  - [[5.2]{.toc-section-number} Simon Dückert - State of GenAI - was in
-    meiner Wissensarbeit wirklich, wirklich
-    funktioniert](#simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert){#toc-simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert}
-  - [[5.3]{.toc-section-number} Bernhard Rupp und Andreas Kübli - 12
-    Freunde müsst ihr
-    sein](#bernhard-rupp-und-andreas-kübli---12-freunde-müsst-ihr-sein){#toc-bernhard-rupp-und-andreas-kübli---12-freunde-müsst-ihr-sein}
-  - [[5.4]{.toc-section-number} Florence Streif - Weichenstellung fürs
-    digitale Zeitalter - Zwischen Bahnhof und
-    Besprechungsraum](#florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum){#toc-florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum}
-  - [[5.5]{.toc-section-number} Moritz Huber - KI im Lern-Lifecycle -
-    PoC für KI-gestütztes
-    Anwenderlernen](#moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen){#toc-moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen}
-  - [[5.6]{.toc-section-number} Mike Fritz und Christoph Kernke - SAP
-    Enable Now trifft auf WalkMe und die SAP Integrated
-    Toolchain](#mike-fritz-und-christoph-kernke---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain){#toc-mike-fritz-und-christoph-kernke---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain}
-  - [[5.7]{.toc-section-number} Patrick Fueldner - Von der Einführung
-    zur Skalierung - Nestlés Digital Adoption-Strategie mit
-    WalkMe](#patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme){#toc-patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme}
-  - [[5.8]{.toc-section-number} Katja Sommerer - Big Bang - 40 Länder,
-    800 neue Mitarbeitende - Herausforderungen des Trainings in einem
-    M+A-Projekt](#katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt){#toc-katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt}
-  - [[5.9]{.toc-section-number} Andrea Flöth - HR neu gedacht - BARMERs
-    digitale Evolution mit Hilfe von SAP Preferred
-    Success](#andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success){#toc-andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success}
-  - [[5.10]{.toc-section-number} Mareike Muth - Übersetzer der Moderne -
-    Das Learning Team als Katalysator zwischen Fachbereich und
-    Enduser](#mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser){#toc-mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser}
-- [[6]{.toc-section-number} Sessions &
-  Workshops](#sessions-workshops){#toc-sessions-workshops}
-  - [[6.1]{.toc-section-number}
-    Promptathon](#promptathon){#toc-promptathon}
-  - [[6.2]{.toc-section-number} Discovery Workshop AI UseCases im
-    Learning](#discovery-workshop-ai-usecases-im-learning){#toc-discovery-workshop-ai-usecases-im-learning}
-  - [[6.3]{.toc-section-number} Good Practices & Lessons Learned SAP
-    S/4HANA
-    Transformationen](#good-practices-lessons-learned-sap-s4hana-transformationen){#toc-good-practices-lessons-learned-sap-s4hana-transformationen}
+
 
 # Willkommen
 
@@ -243,32 +179,27 @@ Wirtschaft.**
 
 Das Gespräch gliederte sich in mehrere thematische Schwerpunkte:
 
-• **Umgang mit Veränderungen**: Ogunleye erklärt ihre Herangehensweise
-an berufliche und persönliche Wendepunkte. Sie betont die Wichtigkeit,
-Veränderungen als Chancen zu begreifen und positiv anzunehmen.
-
-• **Aktivierung von "Superkräften" und mentalem Training**: Die
-Olympiasiegerin teilt ihre Methoden zur mentalen Vorbereitung und
-Visualisierung. Sie beschreibt konkrete Techniken, um in entscheidenden
-Momenten Höchstleistungen abzurufen.
-
-• **Rolle von Emotionen und Authentizität**: Ein zentrales Thema ist die
-Bedeutung emotionaler Offenheit im professionellen Umfeld. Ogunleye
-plädiert für mehr Authentizität und das Zulassen von Freude am
-Arbeitsplatz.
-
-• **Lernen und Entwicklung im Spitzensport**: Die Athletin erläutert
-ihre Lernstrategien und betont besonders den Wert des Scheiterns. Sie
-zeigt auf, wie Rückschläge als wichtige Entwicklungschancen genutzt
-werden können.
-
-• **Teamarbeit und Wertschätzung**: Trotz ihrer individuellen Erfolge
-hebt Ogunleye die Bedeutung ihres Unterstützungsteams hervor. Sie gibt
-konkrete Tipps zur praktischen Wertschätzung von Teammitgliedern.
-
-• **Umgang mit Erfolg und Misserfolg**: Die Olympiasiegerin teilt ihre
-Strategien für den Umgang mit Höhen und Tiefen. Sie erklärt, wie sie
-sowohl Siege als auch Niederlagen konstruktiv verarbeitet.
+- **Umgang mit Veränderungen**: Ogunleye erklärt ihre Herangehensweise
+  an berufliche und persönliche Wendepunkte. Sie betont die Wichtigkeit,
+  Veränderungen als Chancen zu begreifen und positiv anzunehmen.
+- **Aktivierung von "Superkräften" und mentalem Training**: Die
+  Olympiasiegerin teilt ihre Methoden zur mentalen Vorbereitung und
+  Visualisierung. Sie beschreibt konkrete Techniken, um in
+  entscheidenden Momenten Höchstleistungen abzurufen.
+- **Rolle von Emotionen und Authentizität**: Ein zentrales Thema ist die
+  Bedeutung emotionaler Offenheit im professionellen Umfeld. Ogunleye
+  plädiert für mehr Authentizität und das Zulassen von Freude am
+  Arbeitsplatz.
+- **Lernen und Entwicklung im Spitzensport**: Die Athletin erläutert
+  ihre Lernstrategien und betont besonders den Wert des Scheiterns. Sie
+  zeigt auf, wie Rückschläge als wichtige Entwicklungschancen genutzt
+  werden können.
+- **Teamarbeit und Wertschätzung**: Trotz ihrer individuellen Erfolge
+  hebt Ogunleye die Bedeutung ihres Unterstützungsteams hervor. Sie gibt
+  konkrete Tipps zur praktischen Wertschätzung von Teammitgliedern.
+- **Umgang mit Erfolg und Misserfolg**: Die Olympiasiegerin teilt ihre
+  Strategien für den Umgang mit Höhen und Tiefen. Sie erklärt, wie sie
+  sowohl Siege als auch Niederlagen konstruktiv verarbeitet.
 
 ### Kernaussagen
 
@@ -335,60 +266,50 @@ gebraucht."*
 
 Während des Interviews wurden mehrere wichtige Fragen aufgeworfen:
 
-• **Nachhaltigkeit von Motivation**: Wie können Teams langfristig ihre
-Begeisterung aufrechterhalten, besonders in schwierigen Phasen?
-
-• **Balance zwischen Individualität und Teamleistung**: Wie lassen sich
-persönliche Emotionen und Authentizität in teamorientierten
-Arbeitsumgebungen optimal einsetzen?
-
-• **Übertragbarkeit von Visualisierungstechniken**: Welche Anpassungen
-brauchen mentale Trainingsmethoden für verschiedene
-Unternehmensbereiche?
-
-• **Messbarkeit von "weichen" Faktoren**: Wie können Unternehmen den
-Erfolg von emotionaler Intelligenz und mentaler Stärke quantifizieren?
+- **Nachhaltigkeit von Motivation**: Wie können Teams langfristig ihre
+  Begeisterung aufrechterhalten, besonders in schwierigen Phasen?
+- **Balance zwischen Individualität und Teamleistung**: Wie lassen sich
+  persönliche Emotionen und Authentizität in teamorientierten
+  Arbeitsumgebungen optimal einsetzen?
+- **Übertragbarkeit von Visualisierungstechniken**: Welche Anpassungen
+  brauchen mentale Trainingsmethoden für verschiedene
+  Unternehmensbereiche?
+- **Messbarkeit von "weichen" Faktoren**: Wie können Unternehmen den
+  Erfolg von emotionaler Intelligenz und mentaler Stärke quantifizieren?
 
 ### Handlungsempfehlungen für die Unternehmenspraxis
 
-#####Sofortige Umsetzungsmaßnahmen:
+**Sofortige Umsetzungsmaßnahmen:**
 
-• **Tägliche Dankbarkeitsrituale einführen**: *"Ein einfaches
-Dankeschön"* nach Meetings oder Projektabschlüssen etablieren
+- **Tägliche Dankbarkeitsrituale einführen**: *"Ein einfaches
+  Dankeschön"* nach Meetings oder Projektabschlüssen etablieren
+- **Visualisierungstechniken implementieren**: 5-10 Minuten täglich für
+  mentale Vorbereitung auf wichtige Termine oder Herausforderungen
+  einplanen
+- **Positive Selbstgespräche fördern**: *"Morgen wird ein besserer Tag,
+  die Sonne wird wieder scheinen"* als Grundhaltung in schwierigen
+  Situationen
 
-• **Visualisierungstechniken implementieren**: 5-10 Minuten täglich für
-mentale Vorbereitung auf wichtige Termine oder Herausforderungen
-einplanen
+**Strategische Entwicklungsansätze:**
 
-• **Positive Selbstgespräche fördern**: *"Morgen wird ein besserer Tag,
-die Sonne wird wieder scheinen"* als Grundhaltung in schwierigen
-Situationen
+- **Scheitern als Lernchance etablieren**: Eine Unternehmenskultur
+  schaffen, die Fehler als wertvollen Teil des Entwicklungsprozesses
+  betrachtet
+- **Emotionale Authentizität fördern**: *"Zu sein, wie man einfach ist"*
+  und Freude am Arbeitsplatz zulassen
+- **Teamziele gemeinsam definieren**: *"Als Team zusammenzuarbeiten,
+  sich gewisse Ziele als Team zu stecken"*
+- **Langfristige Vision entwickeln**: Das große Ziel im Blick behalten,
+  auch wenn einzelne Tage nicht optimal verlaufen
 
-#### Strategische Entwicklungsansätze:
+**Führungsempfehlungen:**
 
-• **Scheitern als Lernchance etablieren**: Eine Unternehmenskultur
-schaffen, die Fehler als wertvollen Teil des Entwicklungsprozesses
-betrachtet
-
-• **Emotionale Authentizität fördern**: *"Zu sein, wie man einfach ist"*
-und Freude am Arbeitsplatz zulassen
-
-• **Teamziele gemeinsam definieren**: *"Als Team zusammenzuarbeiten,
-sich gewisse Ziele als Team zu stecken"*
-
-• **Langfristige Vision entwickeln**: Das große Ziel im Blick behalten,
-auch wenn einzelne Tage nicht optimal verlaufen
-
-#### Führungsempfehlungen:
-
-• **Regelmäßige Wertschätzung ausdrücken**: Nicht nur bei großen
-Erfolgen, sondern auch für tägliche Beiträge danken
-
-• **Mentale Gesundheit priorisieren**: Zeit und Ressourcen für die
-psychische Vorbereitung und Regeneration einplanen
-
-• **Diversität in Herangehensweisen fördern**: Verschiedene Methoden der
-Zielerreichung respektieren und unterstützen
+- **Regelmäßige Wertschätzung ausdrücken**: Nicht nur bei großen
+  Erfolgen, sondern auch für tägliche Beiträge danken
+- **Mentale Gesundheit priorisieren**: Zeit und Ressourcen für die
+  psychische Vorbereitung und Regeneration einplanen
+- **Diversität in Herangehensweisen fördern**: Verschiedene Methoden der
+  Zielerreichung respektieren und unterstützen
 
 Die Erkenntnisse aus Ogunleyes Spitzensport-Erfahrung zeigen, dass
 erfolgreiche Unternehmensführung weit über fachliche Kompetenz
