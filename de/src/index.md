@@ -1,9 +1,9 @@
 # Willkommen 
 
-Das [SAP Learning and Adoption Forum 2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-save-the-date/ba-p/14048737) fand am 25. Juni 2025 in Walldorf statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Lightning Talks, Knowledge Cafes und Workshops.
+Das [SAP Learning and Adoption Forum 2025](https://go4.events.sap.com/eur-learning-adoption-forum/de_de/home.html) fand am 25. Juni 2025 in Walldorf statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Lightning Talks, Knowledge Cafes und Workshops.
 
 !!! note "Hinweis"
-    Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen.
+    Mit der Dokumentation könnt ihr sogar mit [diesem Chatbot](https://chatgpt.com/g/g-68591dbd8fd081918d7be3eaef14596e-sap-learning-adoption-forum-2025) (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen.
 
 *Offen: wer steht im Impressum? Unter welcher Lizenz stehen die Inhalte?*
 
@@ -13,6 +13,7 @@ Das [SAP Learning and Adoption Forum 2025](https://community.sap.com/t5/sap-trai
 
 | ID | Programmpunkt | Referent:innen | Affiliation |
 | --- | --- | --- | --- |
+| 0-1 | [Interview mit Yemisi Ogunleye](0-1.md) | | |
 | 1 | **Lightning Talks** | | |
 | 1-1 | [Appet-ai-te for disruption](1-1.md) | Timo Deiner | Head of Innovation & Technology MEE, SAP |
 | 1-2 | [Trends in Corporate Learning - mehr als KI!](1-2.md) | Jochen Robes | Hochschullehrer und Gründungsmitglied Corporate Learning Community |
