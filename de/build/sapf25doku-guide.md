@@ -669,7 +669,115 @@ Potenzialen.
 
 ## Frédéric Heinemann - Collaborative Learning im SAP-Ecosystem - Key-User als Mentoren der Zukunft
 
-...
+Frederik von Kyndril präsentierte in diesem Knowledge Café innovative
+Ansätze zur Transformation der Key User-Rolle in SAP-Projekten. Der
+Vortrag beleuchtete die chronischen Herausforderungen traditioneller Key
+User-Konzepte und stellte collaborative Learning-Methoden als Lösung
+vor. Dabei stand die Aktivierung der "Human Superpowers" im
+Mittelpunkt - ein Paradigmenwechsel von passiven Trainingsempfängern hin
+zu aktiven Mentoren und Multiplikatoren der Transformation.
+
+### Gliederung und Aufbau des Vortrags
+
+**Problemanalyse traditioneller Key User-Ansätze** Frederik begann mit
+einer ehrlichen Bestandsaufnahme der aktuellen Situation: *"Ich
+beobachte das Thema Key User schon die ganze Zeit. Ich weiß nicht, wie
+es anderen hier geht, aber ich habe so das Gefühl, dass sich das nicht
+wirklich weiterentwickelt."* Er identifizierte strukturelle Probleme,
+die seit Jahrzehnten bestehen.
+
+**Ursachenforschung und Symptome** Der Vortrag analysierte systematisch
+die Gründe für das Scheitern von Key User-Konzepten, von mangelnder
+Freistellung bis hin zu fehlender Wertschätzung durch Führungskräfte.
+
+**Lösungsansätze durch Collaborative Learning** Frederik stellte
+konkrete Methoden vor, wie Key User zu echten Mentoren entwickelt werden
+können, einschließlich praktischer Beispiele wie dem "Mitmachmittwoch"
+bei Kyndril.
+
+**Implementierungsstrategien** Abschließend wurden konkrete
+Handlungsempfehlungen für die Praxis vorgestellt, mit Fokus auf
+Empowerment, Sichtbarkeit und nachhaltiger Wissensverankerung.
+
+### Kernaussagen des Vortrags
+
+**Die Tool-Falle vermeiden** *"Ich versteige mich jetzt mal, auch wenn
+ich mich in den SAP-Hallen befinde, aber ich behaupte, es liegt nicht an
+den Tools."* Frederik betonte, dass technologische Lösungen ohne den
+Menschen nicht funktionieren können.
+
+**Key User als Schlüssel zum Erfolg** *"Die Key-User sind einfach der
+Schlüssel zum Erfolg"* - diese Erkenntnis zog sich wie ein roter Faden
+durch den Vortrag. Dabei ging es nicht nur um fachliche Kompetenz,
+sondern um die Rolle als Multiplikatoren und Mentoren.
+
+**Motivation durch Sinn und Zweck** Ein zentraler Punkt war die
+Erkenntnis: *"Wenn ich selber nicht hinter der Lösung stehe, wie soll
+ich dann die Motivation auf andere übertragen?"* Frederik verwies auf
+aktuelle Studien zur Mitarbeitermotivation, die zeigen, dass Sinn und
+Zweckhaftigkeit wichtiger sind als reine monetäre Anreize.
+
+**Frühzeitige Einbindung als Erfolgsfaktor** *"Key User frühzeitig
+einbinden"* wurde als fundamentale Voraussetzung identifiziert. Dabei
+ging es nicht nur um Information, sondern um aktive Mitgestaltung der
+Lösung.
+
+**Demos statt Diktat** Eine besonders prägnante Formulierung war: *"Die
+Key-User, die sollen selbst den Fortschritt des Projektes demonstrieren.
+Und zwar gegenüber den eigenen Verantwortlichen, den Stakeholders, den
+Fachbereichen."*
+
+### Offene Fragestellungen
+
+Während des Vortrags wurden mehrere wichtige Fragestellungen
+aufgeworfen, die zur weiteren Diskussion anregen:
+
+- Wie kann die Balance zwischen Tagesgeschäft und Projektarbeit für Key
+  User optimal gestaltet werden?
+- Welche Rolle spielen Führungskräfte bei der Unterstützung von Key
+  User-Initiativen?
+- Wie können gewerbliche Mitarbeiter ohne Büroarbeitsplatz effektiv in
+  collaborative Learning-Prozesse eingebunden werden?
+- Wann ist der richtige Zeitpunkt, um unfertige Lösungen zu
+  präsentieren, ohne Verwirrung zu stiften?
+- Wie kann die Kontinuität des Wissens nach Projektabschluss
+  sichergestellt werden?
+
+### Handlungsempfehlungen
+
+**Neue Rollendefinition etablieren** Frederik empfahl eine grundlegende
+Neudefinition der Key User-Rolle: *"Key User als Dolmetscher,
+Fachbereich, IT, Dolmetscher, aber auch zu den Unternehmenszielen."*
+Diese erweiterte Rolle umfasst: - Vermittlung zwischen IT und
+Fachbereich - Hinterfragen von Standards und Lösungsansätzen - Aktive
+Teilnahme an Entscheidungsprozessen
+
+**Implementierung regelmäßiger Formate** Als praktisches Beispiel wurde
+der "Mitmachmittwoch" vorgestellt - ein regelmäßiges Format, bei dem Key
+User ihre Themen präsentieren und Fachbereiche zur Beteiligung einladen.
+Dies schafft Sichtbarkeit und Einfluss für die Key User.
+
+**Empowerment durch Eigenverantwortung** - Key User sollen selbst
+Implementierungspiloten durchführen - Frühzeitige Einbindung in
+Workshops und Ideation-Prozesse - Transparenz über Projektfortschritte
+und Entscheidungen
+
+**Führungskräfte-Enablement** Ein wichtiger Punkt war die Notwendigkeit,
+Führungskräfte zu sensibilisieren: *"Die Führungskräfte müssen
+verstehen, dass die Mitarbeiter, die sie da jetzt haben, die Key-User,
+nach dem Projekt noch sehr viel wertvoller sind in ihren Abteilungen."*
+
+**Adoption als Erfolgsmessung** Frederik betonte abschließend:
+*"Adoption, Adoption, Adoption, das ist unser Megamonster KPI, wenn ich
+die Keyuser rankriege, dann habe ich schon mal die erste Schlacht
+gewonnen."*
+
+Der Vortrag machte deutlich, dass erfolgreiche Transformation nicht
+durch bessere Tools, sondern durch bessere Einbindung und Entwicklung
+der Menschen erreicht wird. Die vorgestellten collaborative
+Learning-Ansätze bieten einen vielversprechenden Weg, um Key User von
+passiven Trainingsempfängern zu aktiven Mentoren der digitalen
+Transformation zu entwickeln.
 
 ## Simon Dückert - State of GenAI - was in meiner Wissensarbeit wirklich, wirklich funktioniert
 
@@ -677,7 +785,103 @@ Potenzialen.
 
 ## Bernhard Rupp und Andreas Kübli - 12 Freunde müsst ihr sein
 
-...
+Bernhard Rupp und Andreas Kübli von der BLS AG präsentierten ihre
+Erfolgsstory der SAP SuccessFactors-Einführung unter dem Titel "FC HR
+Pro". Anhand einer kreativen Fußball-Metapher zeigten sie auf, wie ein
+erfolgreiches Projektteam funktioniert und welche Learnings sie während
+der dreijährigen Systemeinführung gesammelt haben. Der Vortrag
+verdeutlichte, dass erfolgreiche Transformationsprojekte vor allem auf
+Teamwork, klarer Kommunikation und der richtigen Vorbereitung basieren.
+
+### Gliederung und Aufbau des Vortrags
+
+Der Vortrag folgte einer durchdachten Struktur entlang der
+Fußball-Metapher:
+
+- **Vorstellung des "Vereins"** (BLS AG als Unternehmen)
+- **Saisonvorbereitung** (Projektplanung nach dem Golden Circle)
+- **Zusammenstellung der Startelf** (Teamaufbau und Rollen)
+- **Der Anpfiff** (Projektstart und erste Phase)
+- **Das Spiel** (Projektumsetzung mit Halbzeitpause)
+- **Spielanalyse** (Learnings und Erkenntnisse)
+- **Ausblick** (Aktuelle Situation und zukünftige Pläne)
+
+### Kernaussagen
+
+**Zur Projektzielsetzung:** *"Wir wollten die ganzen Personalprozesse
+vereinfachen, professionalisieren, auch optimieren und standardisieren"*
+und dabei *"die enormen Medienbrüche eliminieren"*, die im bestehenden
+System vorhanden waren.
+
+**Zur Bedeutung des Teamworks:** *"Es braucht Vertrauen. Also das Team
+muss einander vertrauen können. Es muss auch ein gemeinsames Ziel
+haben"* und *"eine offene Gesprächskultur"*.
+
+**Zur Systemkomplexität:** *"SAP ist nicht SAP, weil Success Factors ist
+zwar das gleiche Spiel, aber es ist ein anderer Boden"* - eine zentrale
+Erkenntnis über die Unterschiede zwischen SAP HCM und SuccessFactors.
+
+**Zur Zeitplanung:** Die ursprünglich geplanten drei Jahre wurden von
+SAP-Beratern auf ein Jahr reduziert, am Ende benötigte das Projekt
+tatsächlich drei Jahre. *"Als SAP dann die Berater das erste Mal vor Ort
+waren und unsere Planung gesehen haben, haben sie gelacht und gesagt, in
+einem Jahr haben wir es alles durch. Am Schluss haben wir drei Jahre
+gebraucht."*
+
+**Zu den Erfolgen:** *"Wir haben heute von der Rekrutierung bis zum
+Austritt alles integriert"* und erhielten den *"Cloud Transformation
+Award 2023"* von SAP für das erfolgreiche Projekt.
+
+### Offene Fragestellungen
+
+Während des Vortrags wurden verschiedene Herausforderungen und offene
+Punkte angesprochen:
+
+- Wie kann die Balance zwischen kontinuierlicher Weiterentwicklung und
+  Stabilisierungsphasen optimal gestaltet werden?
+- Welche Strategien helfen dabei, den Fokus zu behalten, wenn das System
+  *"sehr viel zu machen"* einlädt?
+- Wie lassen sich Wissensabgänge von Schlüsselpersonen während
+  kritischer Projektphasen vermeiden?
+- Wie kann die Belastung für Mitarbeitende bei der Einführung mehrerer
+  Module optimal gesteuert werden?
+
+### Handlungsempfehlungen
+
+**Teamzusammenstellung und -führung:** - Klare Rollenverteilung
+etablieren mit bewährten Positionen wie Projektleiter als "Torwart",
+Fach und IT als "Sturmduo" - Auswechselspieler und Stellvertreter
+definieren, da *"wir während des Projektes auch gewisse Abgänge"*
+hatten - *"Never Change a Winning Team"* - Kernteam möglichst stabil
+halten
+
+**Projektplanung und -durchführung:** - Realistische Zeitplanung
+basierend auf der eigenen Organisationskenntnis - 80/20-Regel befolgen:
+80% Standardfunktionen, nur 20% Anpassungen - Schrittweise Annäherung an
+das System ermöglichen - Regelmäßige Retrospektiven und Halbzeitpausen
+einplanen
+
+**Change Management und Kommunikation:** - *"Kommunikation,
+Kommunikation, Kommunikation"* als zentrales Element - Frühzeitige
+Einbindung der Anwender durch Systemzugang - AbleNow für Schulungen
+nutzen statt umfangreicher Handbücher - *"Verbindlichkeit schaffen, dass
+der Einführungstermin klar verbindlich kommuniziert wird"*
+
+**Betrieb und Weiterentwicklung:** - Fokus behalten und nicht in zu
+viele parallele Aktivitäten verzetteln - *"Durchschnaufen, das Tool
+wirken lassen"* zwischen den Moduleinführungen - Modulverantwortliche
+für koordinierte Weiterentwicklung etablieren - Release-Management für
+halbjährliche Updates implementieren
+
+**Erfolgsfaktoren:** - Erfolge gemeinsam feiern und das Team würdigen -
+Kontinuierliches Lernen durch externe Unterstützung (SAP Preferred
+Success als "Personaltrainer") - Integration aller Module für maximalen
+Nutzen anstreben
+
+Der Vortrag schloss mit dem inspirierenden Zitat von Michael Jordan:
+*"Talente Spieler gewinnen, aber das Teamwork und Diligenz dann die
+Meisterschaft"* - eine treffende Zusammenfassung der zentralen Botschaft
+über die Bedeutung erfolgreicher Teamarbeit in Transformationsprojekten.
 
 ## Florence Streif - Weichenstellung fürs digitale Zeitalter - Zwischen Bahnhof und Besprechungsraum
 
