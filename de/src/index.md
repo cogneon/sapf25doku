@@ -5,9 +5,10 @@ Das [SAP Learning and Adoption Forum 2025](https://go4.events.sap.com/eur-learni
 !!! note "Hinweis"
     Mit der Dokumentation könnt ihr sogar mit [diesem Chatbot](https://chatgpt.com/g/g-68591dbd8fd081918d7be3eaef14596e-sap-learning-adoption-forum-2025) (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen.
 
-*Offen: wer steht im Impressum? Unter welcher Lizenz stehen die Inhalte?*
 
-![](https://community.sap.com/t5/image/serverpage/image-id/239155iA5FD44DFCBCAB58F/image-size/large?v=v2&px=999)
+<iframe src="https://cdnapisec.kaltura.com//p/1921661/embedPlaykitJs/uiconf_id/54486672?iframeembed=true&entry_id=1_3lryl59g" style="width: 560px;height: 395px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"></iframe>
+
+---
 
 # Programm
 
