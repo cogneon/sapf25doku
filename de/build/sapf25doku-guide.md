@@ -18,7 +18,7 @@ toc-own-page: true
 # Willkommen
 
 Das [SAP Learning and Adoption Forum
-2025](https://go4.events.sap.com/eur-learning-adoption-forum/de_de/home.html)
+2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-doku-folien-videos-und-mehr/ba-p/14144564)
 fand am 25. Juni 2025 in Walldorf statt. Die Inhalte dieser
 Dokumentation stammen aus den Aufzeichnungen der Lightning Talks,
 Knowledge Cafes und Workshops. Eine Zusammenfassung der Veranstalung
@@ -33,10 +33,10 @@ natürlicher Sprache mit dem Voice Mode. Die KI-generierten
 Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler
 machen.
 
-*Offen: wer steht im Impressum? Unter welcher Lizenz stehen die
-Inhalte?*
+<iframe src="https://cdnapisec.kaltura.com//p/1921661/embedPlaykitJs/uiconf_id/54486672?iframeembed=true&amp;entry_id=1_3lryl59g" style="width: 560px;height: 395px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *">
+</iframe>
 
-![](https://community.sap.com/t5/image/serverpage/image-id/239155iA5FD44DFCBCAB58F/image-size/large?v=v2&px=999)
+------------------------------------------------------------------------
 
 # Programm
 
